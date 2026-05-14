@@ -18,8 +18,8 @@ mkdocs serve
 # 4. Build the static site into ./site
 mkdocs build
 
-# 5. (Optional) Deploy to GitHub Pages
-# mkdocs gh-deploy --force
+# 5. Verify the production build
+mkdocs build --strict
 ```
 
 ## Project layout
@@ -34,6 +34,8 @@ matthew-mkdocs-site/
 │   ├── knowledge-architecture.md
 │   ├── coffee/            # Imported Coffeepedia vault pages
 │   └── assets/coffee/     # Imported coffee assets
+├── .github/workflows/
+│   └── deploy-pages.yml # GitHub Pages deployment workflow
 └── README.md
 ```
 
@@ -46,7 +48,32 @@ matthew-mkdocs-site/
 - Generated lightweight `index.md` pages for folders so large sections are browsable.
 - Removed the original traffic-operations sample content.
 
-This import builds successfully with `mkdocs build`. Some legacy vault links still produce warnings because they refer to old filenames, duplicate notes, or private draft paths that were intentionally excluded; use `mkdocs build --strict` later as a link-audit target after cleanup.
+This import builds successfully with `mkdocs build --strict`.
+
+## GitHub Pages deployment
+
+The repository includes `.github/workflows/deploy-pages.yml`, which publishes the site with GitHub Actions.
+
+### First-time setup
+
+1. Create a GitHub repository for this project.
+2. Push this folder to the repository, preferably on the `main` branch.
+3. In GitHub, open **Settings → Pages**.
+4. Set **Build and deployment → Source** to **GitHub Actions**.
+5. Push to `main`, or run the workflow manually from **Actions → Deploy Coffeepedia to GitHub Pages → Run workflow**.
+
+The workflow:
+
+- installs dependencies from `requirements.txt`
+- runs `mkdocs build --strict`
+- uploads the generated `site/` directory
+- deploys it to GitHub Pages
+
+If you know the final repository URL, set `site_url` in `mkdocs.yml` to the GitHub Pages address, for example:
+
+```yaml
+site_url: https://USERNAME.github.io/REPOSITORY/
+```
 
 ## Authoring notes
 
