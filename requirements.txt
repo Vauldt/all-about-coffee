@@ -1,0 +1,12 @@
+# MkDocs core + Material theme
+mkdocs>=1.6,<2
+mkdocs-material>=9.5,<10
+
+# Markdown extensions used in mkdocs.yml
+pymdown-extensions>=10.7
+
+# Safe, commonly used plugins (uncomment in mkdocs.yml `plugins:` to enable)
+mkdocs-glightbox>=0.4         # image lightbox
+mkdocs-awesome-pages-plugin>=2.9  # cleaner nav from folder structure
+mkdocs-git-revision-date-localized-plugin>=1.2  # "last updated" timestamps
+mkdocs-minify-plugin>=0.8     # HTML/CSS/JS minification for builds
