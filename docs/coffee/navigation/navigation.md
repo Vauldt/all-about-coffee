@@ -50,7 +50,7 @@ publish: true
 ├── [Foundational Knowledge MOC](../maps-of-content/foundational-knowledge-moc.md)
 │
 ├── **DOMAIN 1: Plant Science & Varietals**
-│   ├── [Coffee Botany and Varietals MOC](../Maps%20of%20Content/Coffee%20Botany%20and%20Varietals%20MOC.md) 
+│   ├── [Coffee Botany and Varietals MOC](../maps-of-content/coffee-botany-and-varietals-moc.md) 
 │   │   ├── [Coffee Plant Science MOC](../maps-of-content/coffee-plant-science-moc.md)
 │   │   ├── [Coffee Breeding and Genetics MOC](../maps-of-content/coffee-breeding-and-genetics-moc.md)
 │   │   ├── [Coffee Variety Families MOC](../maps-of-content/coffee-variety-families-moc.md)

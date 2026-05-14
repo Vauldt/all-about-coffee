@@ -63,5 +63,5 @@ Craft Coffee is the manual that treats home brewing with the seriousness it dese
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
 *Category: [Brewing Science](../categories/brewing-science.md)*

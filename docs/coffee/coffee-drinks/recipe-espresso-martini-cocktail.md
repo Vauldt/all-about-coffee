@@ -40,4 +40,4 @@ A modern classic: smooth, bold, and topped with a silky crema. Perfect as a pick
 
 ---
 
-[← Back to Coffee Cocktails](../coffee-cocktails.md)
+[← Back to Coffee Cocktails](coffee-cocktails.md)

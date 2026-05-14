@@ -38,4 +38,4 @@ A Spanish-Mexican favourite — espresso meets Licor 43 for a sweet, aromatic fi
 
 ---
 
-[← Back to Coffee Cocktails](../coffee-cocktails.md)
+[← Back to Coffee Cocktails](coffee-cocktails.md)

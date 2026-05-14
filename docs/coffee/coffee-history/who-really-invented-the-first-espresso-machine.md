@@ -68,22 +68,7 @@ URL: https://en.wikipedia.org/wiki/Angelo_Moriondo[^8]
 
 [^8]: https://en.wikipedia.org/wiki/Angelo_Moriondo
 
-[^9]: https://www.fishriverroasters.com.au/blog/a-short-history-of-the-espresso-machine
-
-[^10]: https://sagebrushcoffee.com/blogs/education/history-of-the-espresso-machine-italy-where-it-all-began
-
-[^11]: https://espressooutlet.com/blogs/news/history-of-espresso-machine-invention
-
-[^12]: https://www.comunicaffe.com/the-restoration-of-moriondo-the-first-espresso-machine-in-history/
-
-[^13]: https://www.linkedin.com/pulse/first-espresso-machine-angelo-moriondo-ian-bersten
-
-[^14]: https://www.wholelattelove.com/blogs/articles/the-founding-fathers-of-espresso
-
-[^15]: https://www.coffeeness.de/en/who-invented-espresso/
-
-
----
+---  
   
 
 Part of All-About-Coffee.com - The comprehensive coffee knowledgebase.

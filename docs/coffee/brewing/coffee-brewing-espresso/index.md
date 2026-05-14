@@ -2,7 +2,7 @@
 
 ## Sections
 
-- [Espresso](espresso/)
+- [Espresso](espresso/index.md)
 
 ## Pages
 

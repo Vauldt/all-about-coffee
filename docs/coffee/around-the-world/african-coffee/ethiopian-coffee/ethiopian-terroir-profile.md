@@ -48,7 +48,7 @@ Washed southern Ethiopian coffees (Yirgacheffe, Sidama, Guji): jasmine, bergamot
 
 | Date | Change |
 | :--- | :--- |
-| 2026-05-03 | Compliance review: full rewrite — removed `[web:XX]` inline citation tags; added frontmatter and metadata block; fixed path-prefixed wikilinks (`../../Regional Terroir Profiles` → removed, `../../Terroir Factors - Altitude` → removed, `[Terroir Factors - Soil](../../Terroir%20Factors%20-%20Soil.md)` URL-encoded link → removed, `../../Terroir Factors - Climate and Latitude` → removed); replaced `## Links` inline group with `## Related Notes`; removed wrong copyright block (email, wrong holder); set status to Stub as content is covered in detail by Ethiopia Terroir.md |
+| 2026-05-03 | Compliance review: full rewrite — removed `[web:XX]` inline citation tags; added frontmatter and metadata block; fixed path-prefixed wikilinks (`../../Regional Terroir Profiles` → removed, `../../Terroir Factors - Altitude` → removed, `[Terroir Factors - Soil](../../../terroir/terroir-factors-soil.md)` URL-encoded link → removed, `../../Terroir Factors - Climate and Latitude` → removed); replaced `## Links` inline group with `## Related Notes`; removed wrong copyright block (email, wrong holder); set status to Stub as content is covered in detail by Ethiopia Terroir.md |
 
 ---
 

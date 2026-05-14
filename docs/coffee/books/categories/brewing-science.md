@@ -9,7 +9,7 @@ tags: []
 
 # Brewing Science
 
-*Category 1 of 4 | [Back to index](../Readme.md)*
+*Category 1 of 4 | [Back to index](../readme.md)*
 
 ---
 
@@ -123,4 +123,4 @@ Brewing science books sit at the intersection of culinary art and empirical inve
 
 ---
 
-*[Back to Top 20 Coffee Books index](../Readme.md)*
+*[Back to Top 20 Coffee Books index](../readme.md)*

@@ -2,7 +2,7 @@
 
 ## Sections
 
-- [Coffee Brewing Espresso](coffee-brewing-espresso/)
+- [Coffee Brewing Espresso](coffee-brewing-espresso/index.md)
 
 ## Pages
 

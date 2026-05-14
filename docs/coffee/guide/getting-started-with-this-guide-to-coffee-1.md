@@ -37,7 +37,7 @@ The search tool and the file index on the left-hand side of the screen are usefu
 
 ## The Coffee KnowledgeBase
 
-[Coffee Knowledgebase](Coffee%20Knowledgebase.md)
+[Coffee Knowledgebase](../coffee-education/coffee-knowledgebase.md)
 
 
 ## Learning Paths by Experience Level

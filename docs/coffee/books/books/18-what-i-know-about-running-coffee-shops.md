@@ -60,5 +60,5 @@ Colin Harmon is a four-time World Barista Championship finalist and the founder 
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
 *Category: [Specialty & Industry](../categories/specialty-industry.md)*

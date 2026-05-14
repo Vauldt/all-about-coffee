@@ -38,7 +38,7 @@ Better coffee isn't just about taste—it's about understanding, control, and ri
 
 - Explore [Tasting Notes](../coffee-tasting/tasting-notes.md) and Flavor Wheel
 - Understand [Extraction](../brewing-fundamentals/extraction.md) basics
-- Experiment with [Grind Size](05_PUBLISHING/Grind%20Size.md)
+- Experiment with Grind Size
 - Try different ../Key Producing Regions and Their Character
 
 **Key concept**: Variables affect outcomes

@@ -13,6 +13,6 @@ Soil type influences water drainage, root development, and nutrient availability
 ## Links
 
 - ../What Is Coffee Terroir?
-- [Terroir Factors - Altitude](Terroir%20Factors%20-%20Altitude.md)
-- [Terroir Factors - Climate and Latitude](Terroir%20Factors%20-%20Climate%20and%20Latitude.md)
+- [Terroir Factors - Altitude](terroir-factors-altitude.md)
+- [Terroir Factors - Climate and Latitude](terroir-factors-climate-and-latitude.md)
 - [Regional Terroir Profiles](../coffee-geography/regional-terroir-profiles.md)

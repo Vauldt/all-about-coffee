@@ -16,7 +16,7 @@ tags: []
 |---|---|
 | **Author** | Anette Moldvaer |
 | **Year** | 2014 |
-| **Category** | [Barista & Craft Guides](../categories/Barista%20guides.md) |
+| **Category** | [Barista & Craft Guides](../categories/barista-guides.md) |
 | **Goodreads Rating** | 4.16 / 5 (648 ratings) |
 | **Price (USD)** | $20--$30 |
 | **Target Audience** | Visual learners, home brewers, espresso fans |
@@ -61,5 +61,5 @@ Anette Moldvaer's Coffee Obsession -- published by DK -- is a large-format visua
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
-*Category: [Barista & Craft Guides](../categories/Barista%20guides.md)*
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
+*Category: [Barista & Craft Guides](../categories/barista-guides.md)*

@@ -13,7 +13,7 @@ updated: 2026-05-11
 
 Ethiopia's diverse highland geography — spanning east to west, south to north — creates strikingly different flavour profiles across its growing regions. Elevation, rainfall patterns, soil, and processing tradition all vary by region, making origin specificity essential when sourcing or tasting Ethiopian coffee. See ../Ethiopian Coffee/Ethiopia Coffee Articles/Ethiopia and Coffee for the full overview.
 
-![](../Attachments/Pasted%20image%2020260430035313.png)
+![](../../assets/coffee/pasted-image-20260430035313.png)
 
 
 ## [Ethiopian Southern Regions](../around-the-world/african-coffee/ethiopian-coffee/ethiopian-southern-regions.md)
@@ -115,4 +115,3 @@ You can contact the editor:
 [matthewclairmont500@gmail.com](mailto:matthewclairmont500@gmail.com)
 
 Copyright © All About Coffee 2026
-

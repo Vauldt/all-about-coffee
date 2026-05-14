@@ -2,13 +2,13 @@
 
 ## Sections
 
-- [Africa In General](africa-in-general/)
-- [Burundi](burundi/)
-- [Ethiopian Coffee](ethiopian-coffee/)
-- [Malawi](malawi/)
-- [Rwanda](rwanda/)
-- [Uganda](uganda/)
-- [Zimbabwe](zimbabwe/)
+- [Africa In General](africa-in-general/index.md)
+- [Burundi](burundi/index.md)
+- [Ethiopian Coffee](ethiopian-coffee/index.md)
+- [Malawi](malawi/index.md)
+- [Rwanda](rwanda/index.md)
+- [Uganda](uganda/index.md)
+- [Zimbabwe](zimbabwe/index.md)
 
 ## Pages
 

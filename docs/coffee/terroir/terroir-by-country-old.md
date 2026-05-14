@@ -10,12 +10,12 @@
 
 ## Brazilian-Terroir-Profile
 
-- [Brazilian-Terroir-Profile](brazilian-terroir-profile-2.md#brazilian-terroir-profile)
-  - [Brazilian-Terroir-Profile](brazilian-terroir-profile-2.md#overview)
-  - [Brazilian-Terroir-Profile](brazilian-terroir-profile-2.md#terroir)
-  - [Brazilian-Terroir-Profile](brazilian-terroir-profile-2.md#typical-flavour-profile)
-  - [Brazilian-Terroir-Profile](brazilian-terroir-profile-2.md#internal-variation)
-  - [Brazilian-Terroir-Profile](brazilian-terroir-profile-2.md#links)
+- [Brazilian-Terroir-Profile](brazilian-terroir-profile-2.md)
+  - [Brazilian-Terroir-Profile](brazilian-terroir-profile-2.md)
+  - [Brazilian-Terroir-Profile](brazilian-terroir-profile-2.md)
+  - [Brazilian-Terroir-Profile](brazilian-terroir-profile-2.md)
+  - [Brazilian-Terroir-Profile](brazilian-terroir-profile-2.md)
+  - [Brazilian-Terroir-Profile](brazilian-terroir-profile-2.md)
 
 ## Colombian-Terroir-Profile
 

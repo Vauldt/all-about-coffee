@@ -170,4 +170,4 @@ This article is part of AllAboutCoffee.org - The comprehensive coffee knowledgeb
 
 Copyright © Matthew Clairmont 2026
 
-[Homepage](../../../homepage.md)
+[Homepage](../../../index.md)

@@ -2,8 +2,8 @@
 
 ## Sections
 
-- [Books](books/)
-- [Categories](categories/)
+- [Books](books/index.md)
+- [Categories](categories/index.md)
 
 ## Pages
 

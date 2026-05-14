@@ -76,7 +76,7 @@
 - [Moc coffee fundamentals](moc-coffee-fundamentals.md)
 - [Moc coffee making process](moc-coffee-making-process.md)
 - [Moc regional coffee drinks](moc-regional-coffee-drinks.md)
-- [Moc review 1](moc-review-1.md)
+- Moc review 1
 - [Most referenced mocs](most-referenced-mocs.md)
 - [Navigation moc](navigation-moc.md)
 - [Nicaragua moc](nicaragua-moc.md)

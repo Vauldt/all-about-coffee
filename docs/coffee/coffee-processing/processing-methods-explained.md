@@ -186,6 +186,6 @@ Dried parchment rests to stabilise moisture, then the parchment and residual dri
 
 ---
 
-This article is part of **[AllAboutCoffee.com](homepage)** - The comprehensive coffee knowledgebase.
+This article is part of **[AllAboutCoffee.com](../index.md)** - The comprehensive coffee knowledgebase.
 
 Copyright © Matthew Clairmont 2026

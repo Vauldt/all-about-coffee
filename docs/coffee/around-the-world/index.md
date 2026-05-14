@@ -2,14 +2,14 @@
 
 ## Sections
 
-- [African Coffee](african-coffee/)
-- [Asia](asia/)
-- [Australia](australia/)
-- [Central America](central-america/)
-- [Europe](europe/)
-- [Nth America](nth-america/)
-- [South America](south-america/)
-- [Sth America](sth-america/)
+- [African Coffee](african-coffee/index.md)
+- [Asia](asia/index.md)
+- [Australia](australia/index.md)
+- [Central America](central-america/index.md)
+- [Europe](europe/index.md)
+- [Nth America](nth-america/index.md)
+- [South America](south-america/index.md)
+- [Sth America](sth-america/index.md)
 
 ## Pages
 

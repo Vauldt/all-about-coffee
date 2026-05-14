@@ -36,4 +36,4 @@ A simple, two-ingredient cocktail with bold coffee and vodka flavors.
 
 ---
 
-[← Back to Coffee Cocktails](../coffee-cocktails.md)
+[← Back to Coffee Cocktails](coffee-cocktails.md)

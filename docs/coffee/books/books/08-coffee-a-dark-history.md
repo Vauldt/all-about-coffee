@@ -60,5 +60,5 @@ Where Pendergrast's Uncommon Grounds offers a panoramic history, Antony Wild's C
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
 *Category: [History & Culture](../categories/history-culture.md)*

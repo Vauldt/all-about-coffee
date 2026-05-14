@@ -2,7 +2,7 @@
 
 ## Sections
 
-- [Coffee Equipment](coffee-equipment/)
+- [Coffee Equipment](coffee-equipment/index.md)
 
 ## Pages
 

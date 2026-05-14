@@ -61,5 +61,5 @@ Weissman's book is a journalistic account of the people who built the specialty 
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
 *Category: [History & Culture](../categories/history-culture.md)*

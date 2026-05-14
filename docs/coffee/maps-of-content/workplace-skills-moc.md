@@ -123,7 +123,7 @@ Workplace skills translate coffee knowledge into consistent, high-quality execut
 ### Brewing Execution
 
 **Method Mastery:**
-- [Brewing Methods](Brewing%20Methods.md)
+- [Brewing Methods](../brewing-fundamentals/brewing-methods.md)
 - [Pour Over](../coffee-brewing/pour-over.md)
 - [Pour-over (brew method)](../coffee-brewing/pour-over-brew-method.md)
 - [French press (brew method)](../coffee-brewing/french-press-brew-method.md)
@@ -238,7 +238,7 @@ Workplace skills translate coffee knowledge into consistent, high-quality execut
 - [Recipe card for Bavarian coffee](../coffee-drinks/recipe-card-for-bavarian-coffee.md)
 
 **Quality Standards:**
-- [100-Point Scale](100-Point%20Scale.md)
+- [100-Point Scale](../tasting-coffee/100-point-scale.md)
 - SCA_Cupping_Form
 - [Origin-Specific Standards](../coffee-green-beans/origin-specific-standards.md)
 

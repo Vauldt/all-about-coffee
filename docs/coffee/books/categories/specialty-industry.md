@@ -9,7 +9,7 @@ tags: []
 
 # Specialty & Industry
 
-*Category 4 of 4 | [Back to index](../Readme.md)*
+*Category 4 of 4 | [Back to index](../readme.md)*
 
 ---
 
@@ -78,4 +78,4 @@ The specialty coffee industry has matured into a global profession with its own 
 
 ---
 
-*[Back to Top 20 Coffee Books index](../Readme.md)*
+*[Back to Top 20 Coffee Books index](../readme.md)*

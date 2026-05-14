@@ -13,12 +13,12 @@ updated: 2026-05-11
 
 ## USA Map of Content
 
-	 [About the USA](Around%20the%20World/Nth%20America/USA%20Data%20Files/About%20the%20USA.md) 
+	 [About the USA](../around-the-world/nth-america/usa-data-files/about-the-usa.md) 
      
      USA Coffee Regions
 		     
 		     |--- Californea
 		     |
-		     |--- [Hawaii](Hawaii.md)
+		     |--- [Hawaii](../coffee-geography/hawaii.md)
 		     |
 		     |--- Puerto Rico

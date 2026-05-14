@@ -8,7 +8,7 @@ tags: []
 
 # Top Picks by Reader Type
 
-*[Back to index](Readme.md)*
+*[Back to index](readme.md)*
 
 Three curated recommendations for each of five reader archetypes. Use this page to find the most relevant starting point for your situation.
 
@@ -174,4 +174,4 @@ Illuminating look at how specialty importers and roasters built the market opera
 
 ---
 
-*[Back to Top 20 Coffee Books index](Readme.md)*
+*[Back to Top 20 Coffee Books index](readme.md)*

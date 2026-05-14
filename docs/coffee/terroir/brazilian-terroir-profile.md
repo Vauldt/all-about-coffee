@@ -26,7 +26,7 @@ Brazil is the world’s largest coffee producer, with vast plantations and a wid
 ## Links
 
 - ../Regional Terroir Profiles
-- [Terroir Factors - Altitude](../Terroir%20Factors%20-%20Altitude.md)
-- [Terroir Factors - Soil](../Terroir%20Factors%20-%20Soil.md)
-- [Terroir Factors - Climate and Latitude](../Terroir%20Factors%20-%20Climate%20and%20Latitude.md)
+- [Terroir Factors - Altitude](terroir-factors-altitude.md)
+- [Terroir Factors - Soil](terroir-factors-soil.md)
+- [Terroir Factors - Climate and Latitude](terroir-factors-climate-and-latitude.md)
 - Terroir and Flavour in the Cup

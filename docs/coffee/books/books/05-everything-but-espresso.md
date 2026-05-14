@@ -60,5 +60,5 @@ Scott Rao's filter-focused companion to The Professional Barista's Handbook appl
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
 *Category: [Brewing Science](../categories/brewing-science.md)*

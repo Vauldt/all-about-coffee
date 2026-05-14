@@ -2,8 +2,8 @@
 
 ## Sections
 
-- [Coffee Based Drinks](coffee-based-drinks/)
-- [Non Coffee Drinks](non-coffee-drinks/)
+- [Coffee Based Drinks](coffee-based-drinks/index.md)
+- [Non Coffee Drinks](non-coffee-drinks/index.md)
 
 ## Pages
 

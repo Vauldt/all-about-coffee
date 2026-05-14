@@ -12,9 +12,9 @@ updated: 2026-05-11
 
 ### Australia Map of Content
 
-[Australia and coffee](Around%20the%20World/Australia/Australia%20and%20coffee.md)
+[Australia and coffee](../around-the-world/australia/australia-and-coffee.md)
 	|
-	| -- [NSW Coffee](New-South-Wales-Coffee-Growing-Region)
+	| -- [NSW Coffee](../around-the-world/australia/new-south-wales-coffee-growing-region.md)
 	|
-	|-- [Queensland Coffee](queensland_coffee_guide)
+	|-- [Queensland Coffee](../around-the-world/australia/queensland-coffee-guide.md)
 	

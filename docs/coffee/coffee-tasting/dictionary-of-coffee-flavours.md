@@ -88,7 +88,7 @@ Some wheel categories are primarily aroma-driven — the Floral and Spice catego
 
 | Date | Change |
 | :--- | :--- |
-| 2026-05-02 | Compliance review: full rewrite — removed inline [source+N](url) citation markers, ../ wikilinks, second-person language, chatbot ending, internal "Why it matters for Coffeepedia" section; corrected American spelling (Flavor → Flavour in headings); rebuilt as encyclopedic article covering SCA Flavour Wheel development, structure, and tasting use; added frontmatter, metadata block, Key Facts, References, Changelog, copyright |
+| 2026-05-02 | Compliance review: full rewrite — removed inline `source+N` citation markers, `../` wikilinks, second-person language, chatbot ending, internal "Why it matters for Coffeepedia" section; corrected American spelling (Flavor → Flavour in headings); rebuilt as encyclopedic article covering SCA Flavour Wheel development, structure, and tasting use; added frontmatter, metadata block, Key Facts, References, Changelog, copyright |
 
 ---
 

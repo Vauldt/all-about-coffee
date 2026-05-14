@@ -61,5 +61,5 @@ Hoffmann's follow-up to the World Atlas is more focused in scope but equally aut
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
 *Category: [Brewing Science](../categories/brewing-science.md)*

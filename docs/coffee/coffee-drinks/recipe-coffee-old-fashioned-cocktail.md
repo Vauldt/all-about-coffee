@@ -42,4 +42,4 @@ A rich, bourbon-forward twist on the classic Old Fashioned, enhanced with coffee
 
 ---
 
-[← Back to Coffee Cocktails](../coffee-cocktails.md)
+[← Back to Coffee Cocktails](coffee-cocktails.md)

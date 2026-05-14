@@ -12,7 +12,7 @@ updated: 2026-04-21
 
 ## Navigation
 
-#### [Table of Contents](Coffee%20Meta/Table%20of%20Contents.md)
+#### [Table of Contents](coffee-meta/table-of-contents.md)
 
 or
 #### Search the file list  

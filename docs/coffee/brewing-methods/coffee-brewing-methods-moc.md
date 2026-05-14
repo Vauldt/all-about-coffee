@@ -58,4 +58,4 @@ This map of content covers all coffee brewing methods documented in Coffeepedia 
 - [Hoffmann, J. (2018). *The World Atlas of Coffee* (2nd ed.). Mitchell Beazley.](https://www.jameshoffmann.co.uk)
 - [Hoffmann, J. — YouTube: James Hoffmann Coffee](https://www.youtube.com/@jameshoffmann)
 
-_Part of [All About Coffee](Homepage) — The Coffee Knowledge Vault_
+_Part of [All About Coffee](../index.md) — The Coffee Knowledge Vault_

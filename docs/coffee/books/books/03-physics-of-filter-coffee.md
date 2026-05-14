@@ -62,5 +62,5 @@ Jonathan Gagne is an astrophysical researcher at the Montreal Rio Tinto Alcan Pl
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
 *Category: [Brewing Science](../categories/brewing-science.md)*

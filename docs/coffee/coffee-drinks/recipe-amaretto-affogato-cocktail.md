@@ -38,4 +38,4 @@ A dessert cocktail hybrid — vanilla ice cream "drowned" with espresso and almo
 
 ---
 
-[← Back to Coffee Cocktails](../coffee-cocktails.md)
+[← Back to Coffee Cocktails](coffee-cocktails.md)

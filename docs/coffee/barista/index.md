@@ -2,10 +2,10 @@
 
 ## Sections
 
-- [Barista Level 1 Skills](barista-level-1-skills/)
-- [Barista Level 2 Skills](barista-level-2-skills/)
-- [Barista Level 3 Skills](barista-level-3-skills/)
-- [Barista Level 4 Skills](barista-level-4-skills/)
+- [Barista Level 1 Skills](barista-level-1-skills/index.md)
+- [Barista Level 2 Skills](barista-level-2-skills/index.md)
+- [Barista Level 3 Skills](barista-level-3-skills/index.md)
+- [Barista Level 4 Skills](barista-level-4-skills/index.md)
 
 ## Pages
 

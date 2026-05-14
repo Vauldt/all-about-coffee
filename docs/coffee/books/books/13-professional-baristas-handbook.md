@@ -14,7 +14,7 @@ tags: []
 |---|---|
 | **Author** | Scott Rao |
 | **Year** | 2008 |
-| **Category** | [Barista & Craft Guides](../categories/Barista%20guides.md) |
+| **Category** | [Barista & Craft Guides](../categories/barista-guides.md) |
 | **Goodreads Rating** | 4.19 / 5 (371 ratings) |
 | **Price (USD)** | $45--$60 |
 | **Target Audience** | Professional baristas, cafe operators, serious home enthusiasts |
@@ -60,5 +60,5 @@ Scott Rao's Professional Barista's Handbook was the first book to treat espresso
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
-*Category: [Barista & Craft Guides](../categories/Barista%20guides.md)*
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
+*Category: [Barista & Craft Guides](../categories/barista-guides.md)*

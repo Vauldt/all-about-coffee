@@ -627,7 +627,7 @@ Good water quality becomes more important at higher temperatures, as both positi
 - [Water Quality](../coffee-brewing-water/water-quality.md) - Water composition and temperature
 - [Espresso Temperature](../brewing/coffee-brewing-espresso/espresso/espresso-temperature.md) - Espresso-specific considerations
 - [Pour Over Technique](../coffee-brewing/pour-over-technique.md) - Temperature in pour over brewing
-- [Grind Size](05_PUBLISHING/Atomic%20Notes/Grind%20Size.md) - Interaction with temperature
+- Grind Size - Interaction with temperature
 - [Brew Time](../brewing-fundamentals/brew-time.md) - Relationship with temperature
 - Temperature Profiling - Variable temperature extraction
 - [Solubility](../brewing-fundamentals/solubility.md) - Temperature and compound dissolution

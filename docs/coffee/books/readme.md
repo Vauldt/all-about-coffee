@@ -20,7 +20,7 @@ Compiled by Perplexity Computer · April 2026
 
 | Section | Description |
 |---|---|
-| [Introduction](Introduction.md) | How books were selected, how to use this guide |
+| [Introduction](introduction.md) | How books were selected, how to use this guide |
 | [Top Picks by Reader Type](top-picks.md) | Curated picks for 5 reader archetypes |
 | [Master Comparison Table](comparison-table.md) | All 20 books in one sortable table |
 
@@ -50,7 +50,7 @@ Coffee is one of history's most consequential commodities -- shaping empires, fi
 - [11. The Blue Bottle Craft of Coffee](books/11-blue-bottle-craft-of-coffee.md) -- *James Freeman, Caitlin Freeman & Tara Duggan, 2012* | 4.08/5 | $20--$30 | [Amazon](https://www.amazon.com/dp/1607741180)
 - [12. The Devil's Cup](books/12-the-devils-cup.md) -- *Stewart Lee Allen, 1999* | 3.64/5 | $12--$18 | [Amazon](https://www.amazon.com/dp/0345441249)
 
-### [Barista & Craft Guides](categories/Barista%20guides.md)
+### [Barista & Craft Guides](categories/barista-guides.md)
 
 Craft-focused titles bridge theoretical knowledge and the physical reality of the cafe bar. Scott Rao's professional handbooks remain the de facto training texts for baristas in specialty coffee globa...
 

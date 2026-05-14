@@ -39,4 +39,4 @@ A bold, bittersweet riff on the Italian classic, with cold brew adding depth and
 
 ---
 
-[← Back to Coffee Cocktails](../coffee-cocktails.md)
+[← Back to Coffee Cocktails](coffee-cocktails.md)

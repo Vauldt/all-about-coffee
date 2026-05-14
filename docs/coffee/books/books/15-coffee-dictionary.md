@@ -16,7 +16,7 @@ tags: []
 |---|---|
 | **Author** | Maxwell Colonna-Dashwood |
 | **Year** | 2017 |
-| **Category** | [Barista & Craft Guides](../categories/Barista%20guides.md) |
+| **Category** | [Barista & Craft Guides](../categories/barista-guides.md) |
 | **Goodreads Rating** | 4.10 / 5 (239 ratings) |
 | **Price (USD)** | $16--$23 |
 | **Target Audience** | All levels -- quick reference for any coffee professional or enthusiast |
@@ -63,5 +63,5 @@ Maxwell Colonna-Dashwood -- three-time UK Barista Champion -- has produced the c
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
-*Category: [Barista & Craft Guides](../categories/Barista%20guides.md)*
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
+*Category: [Barista & Craft Guides](../categories/barista-guides.md)*

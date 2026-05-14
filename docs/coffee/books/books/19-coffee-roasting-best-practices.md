@@ -61,5 +61,5 @@ A slimmer, more focused follow-up to The Coffee Roaster's Companion, this 2020 m
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
 *Category: [Specialty & Industry](../categories/specialty-industry.md)*

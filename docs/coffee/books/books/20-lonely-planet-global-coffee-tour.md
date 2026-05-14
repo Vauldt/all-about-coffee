@@ -60,5 +60,5 @@ Lonely Planet's Global Coffee Tour is a collaboration between Lonely Planet's ed
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
 *Category: [Specialty & Industry](../categories/specialty-industry.md)*

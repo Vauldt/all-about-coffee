@@ -2,4 +2,4 @@
 
 ## Sections
 
-- [About](about/)
+- [About](about/index.md)

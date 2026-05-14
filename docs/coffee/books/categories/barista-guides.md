@@ -9,7 +9,7 @@ tags: []
 
 # Barista & Craft Guides
 
-*Category 3 of 4 | [Back to index](../Readme.md)*
+*Category 3 of 4 | [Back to index](../readme.md)*
 
 ---
 
@@ -108,4 +108,4 @@ Craft-focused titles bridge theoretical knowledge and the physical reality of th
 
 ---
 
-*[Back to Top 20 Coffee Books index](../Readme.md)*
+*[Back to Top 20 Coffee Books index](../readme.md)*

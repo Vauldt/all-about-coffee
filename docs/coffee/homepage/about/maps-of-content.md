@@ -19,7 +19,7 @@ updated: 2026-05-04
 
 ---
 
-This page is a comprehens ive index of every Map of Content (MOC) in All-About-Coffee, organised across the vault's 10 major subject domains. Each MOC is a navigation hub linking to the data files and sub-domain MOCs within its subject area. For a domain-level overview with scope descriptions, see [Table of Contents](../../Coffee%20Meta/Table%20of%20Contents.md)
+This page is a comprehens ive index of every Map of Content (MOC) in All-About-Coffee, organised across the vault's 10 major subject domains. Each MOC is a navigation hub linking to the data files and sub-domain MOCs within its subject area. For a domain-level overview with scope descriptions, see [Table of Contents](../../coffee-meta/table-of-contents.md)
 
 ## Foundational Knowledge
 

@@ -2,8 +2,8 @@
 
 ## Sections
 
-- [Usa](usa/)
-- [Usa Data Files](usa-data-files/)
+- [Usa](usa/index.md)
+- [Usa Data Files](usa-data-files/index.md)
 
 ## Pages
 

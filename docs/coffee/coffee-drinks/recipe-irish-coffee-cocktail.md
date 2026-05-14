@@ -39,4 +39,4 @@ A warming classic from Ireland — whiskey, hot coffee, brown sugar, and a float
 
 ---
 
-[← Back to Coffee Cocktails](../coffee-cocktails.md)
+[← Back to Coffee Cocktails](coffee-cocktails.md)

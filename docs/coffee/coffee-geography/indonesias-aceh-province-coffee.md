@@ -55,9 +55,9 @@ Lighter roasts reveal herbal hints and balanced sweetness, while darker roasts a
 
 ## Related Origins
 
-- [Sumatra Mandheling](sumatra-mandheling.md)
-- [Sumatra Lintong](sumatra-lintong.md)
-- [Toraja (Sulawesi)](toraja-coffee.md)
+- Sumatra Mandheling
+- Sumatra Lintong
+- Toraja (Sulawesi)
 
 ## References
 

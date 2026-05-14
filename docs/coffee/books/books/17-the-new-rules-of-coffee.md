@@ -16,7 +16,7 @@ tags: []
 |---|---|
 | **Author** | Jordan Michelman & Zachary Carlsen |
 | **Year** | 2018 |
-| **Category** | [Barista & Craft Guides](../categories/Barista%20guides.md) |
+| **Category** | [Barista & Craft Guides](../categories/barista-guides.md) |
 | **Goodreads Rating** | 3.95 / 5 (622 ratings) |
 | **Price (USD)** | $20 |
 | **Target Audience** | Specialty coffee newcomers, curious cafe-goers |
@@ -62,5 +62,5 @@ Jordan Michelman and Zachary Carlsen are the founders of Sprudge -- the most wid
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
-*Category: [Barista & Craft Guides](../categories/Barista%20guides.md)*
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
+*Category: [Barista & Craft Guides](../categories/barista-guides.md)*

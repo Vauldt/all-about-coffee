@@ -42,7 +42,7 @@ Coffee equipment spans an enormous range - from simple $10 hand grinders to $30,
 **Complete Reference:** Grinder MOC
 
 **Essential Content:**
-- [Coffee Grinders MOC](Coffee%20Grinders%20MOC.md) - Types and categories
+- [Coffee Grinders MOC](../../maps-of-content/coffee-grinders-moc.md) - Types and categories
 - [Burr grinders](../../grinders/burr-grinders.md) - Precision grinding
 - Manual Grinders - Hand-powered options
 - Espresso Grinders - Fine grinding specialists
@@ -677,7 +677,7 @@ Coffee equipment spans an enormous range - from simple $10 hand grinders to $30,
 ## Related MOCs
 
 - ../Espresso MOC - Complete espresso equipment
-- [Coffee Grinder MOC](Coffee%20Grinder%20MOC.md) - Comprehensive grinding
+- Coffee Grinder MOC - Comprehensive grinding
 - 05_PUBLISHING/Brewing Methods MOC - Brewers by method
 - ../Roasting MOC - Roasting equipment
 - ../Water in Coffee MOC - Water treatment systems

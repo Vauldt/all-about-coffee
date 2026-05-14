@@ -8,7 +8,7 @@ tags: []
 
 # Introduction
 
-*[Back to index](../README.md)*
+*[Back to index](../index.md)*
 
 ---
 
@@ -47,7 +47,7 @@ The 20 books are organised into four thematic categories:
 |---|---|---|
 | [Brewing Science](categories/brewing-science.md) | 1--6 | Extraction, chemistry, technique |
 | [History & Culture](categories/history-culture.md) | 7--12 | Origins, trade, society, narrative |
-| [Barista & Craft Guides](categories/Barista%20guides.md) | 13--17 | Professional technique, vocabulary |
+| [Barista & Craft Guides](categories/barista-guides.md) | 13--17 | Professional technique, vocabulary |
 | [Specialty & Industry](categories/specialty-industry.md) | 18--20 | Business, roasting, travel |
 
 ---
@@ -57,8 +57,8 @@ The 20 books are organised into four thematic categories:
 - **Navigate by category** using the links above
 - **Find books by reader type** in [Top Picks by Reader Type](top-picks.md)
 - **Compare all 20 at once** in the [Master Comparison Table](comparison-table.md)
-- **Jump directly to any book** via the [index](Readme.md)
+- **Jump directly to any book** via the [index](readme.md)
 
 ---
 
-*[Back to Top 20 Coffee Books index](../README.md)*
+*[Back to Top 20 Coffee Books index](../index.md)*

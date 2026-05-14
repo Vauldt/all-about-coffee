@@ -17,6 +17,6 @@ Most of the world’s coffee is grown in a “bean belt” between the Tropics o
 ## Links
 
 - ../What Is Coffee Terroir?
-- [Terroir Factors - Altitude](Terroir%20Factors%20-%20Altitude.md)
-- [Terroir Factors - Soil](Terroir%20Factors%20-%20Soil.md)
+- [Terroir Factors - Altitude](terroir-factors-altitude.md)
+- [Terroir Factors - Soil](terroir-factors-soil.md)
 - [Regional Terroir Profiles](../coffee-geography/regional-terroir-profiles.md)

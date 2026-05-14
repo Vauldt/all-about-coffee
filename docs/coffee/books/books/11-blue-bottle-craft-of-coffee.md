@@ -61,5 +61,5 @@ Written by Blue Bottle founder James Freeman with his partner Caitlin Freeman an
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
 *Category: [History & Culture](../categories/history-culture.md)*

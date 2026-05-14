@@ -35,7 +35,7 @@ This Map of Content organises coffee-producing countries, their regions and link
 
 ## America
 
-**Nth America** [USA MOC](USA%20MOC.md) | [Mexico](../coffee-geography/mexico.md)
+**Nth America** [USA MOC](usa-moc.md) | [Mexico](../coffee-geography/mexico.md)
 
 **Central America:** [Guatemala](../coffee-geography/guatemala.md) | [Costa Rica Terroir](../coffee-geography/costa-rica-terroir.md) | [Honduras](../coffee-geography/honduras.md) | [El Salvador](../coffee-geography/el-salvador.md) | [Nicaragua](../coffee-geography/nicaragua.md) | [Panama](../coffee-geography/panama.md) 
 

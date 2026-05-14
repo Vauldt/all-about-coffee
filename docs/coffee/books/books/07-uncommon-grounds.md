@@ -64,5 +64,5 @@ Mark Pendergrast's Uncommon Grounds is the most comprehensive single-volume hist
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
 *Category: [History & Culture](../categories/history-culture.md)*

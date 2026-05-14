@@ -60,7 +60,7 @@ A curated index of the most frequently referenced Maps of Content (MOCs) in the 
 
 | Date | Change |
 | :--- | :--- |
-| 2026-05-03 | Compliance review: added frontmatter and metadata block; fixed path-prefixed wikilinks (`../Water in Coffee MOC` → `[Water in Coffee MOC](water-in-coffee-moc.md)`, `../Grinder Technology & Performance MOC` → `[Grinder Technology & Performance MOC](grinder-technology-and-performance-moc.md)`, `../Roasting MOC` → `[Roasting MOC](roasting-moc.md)`, `../Quality Control MOC` → `[Quality Control MOC](quality-control-moc.md)`, URL-encoded `[Brewing Methods MOC](05_PUBLISHING/Brewing%20Methods%20MOC.md)` → `[Brewing Methods MOC](brewing-methods-moc.md)`, `05_PUBLISHING/Maps of Content - Lvl 1/Flavour Development MOC` → `[Flavour Development MOC](flavour-development-moc.md)`); added all required sections |
+| 2026-05-03 | Compliance review: added frontmatter and metadata block; fixed path-prefixed wikilinks (`../Water in Coffee MOC` → `[Water in Coffee MOC](water-in-coffee-moc.md)`, `../Grinder Technology & Performance MOC` → `[Grinder Technology & Performance MOC](grinder-technology-and-performance-moc.md)`, `../Roasting MOC` → `[Roasting MOC](roasting-moc.md)`, `../Quality Control MOC` → `[Quality Control MOC](quality-control-moc.md)`, URL-encoded `[Brewing Methods MOC](brewing-methods-moc.md)` → `[Brewing Methods MOC](brewing-methods-moc.md)`, `05_PUBLISHING/Maps of Content - Lvl 1/Flavour Development MOC` → `[Flavour Development MOC](flavour-development-moc.md)`); added all required sections |
 
 ---
 

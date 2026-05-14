@@ -641,7 +641,7 @@ Generated: 2026-05-12. Total incomplete: 842 (🌱 250 stubs · 🔄 24 in progr
 - [ ] Guide/Getting Started with This Guide to Coffee
 - [ ] Guide/Variety Selection Guide
 - [ ] [History of Specialty Coffee](../history-of-specialty-coffee.md)
-- [ ] [Homepage](../homepage.md)
+- [ ] [Homepage](../index.md)
 - [ ] Homepage/About /Maps of Content
 - [ ] Index/Coffee Terms A
 - [ ] Index/Regional Varieties Index

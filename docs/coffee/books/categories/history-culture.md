@@ -9,7 +9,7 @@ tags: []
 
 # History & Culture
 
-*Category 2 of 4 | [Back to index](../Readme.md)*
+*Category 2 of 4 | [Back to index](../readme.md)*
 
 ---
 
@@ -123,4 +123,4 @@ Coffee is one of history's most consequential commodities -- shaping empires, fi
 
 ---
 
-*[Back to Top 20 Coffee Books index](../Readme.md)*
+*[Back to Top 20 Coffee Books index](../readme.md)*

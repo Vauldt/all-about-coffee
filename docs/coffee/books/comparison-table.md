@@ -8,7 +8,7 @@ tags: []
 
 # Master Comparison Table
 
-*[Back to index](Readme.md)*
+*[Back to index](readme.md)*
 
 All 20 books sorted by category. Click any title to open the full entry. Amazon links open the book's product page directly.
 
@@ -64,4 +64,4 @@ All 20 books sorted by category. Click any title to open the full entry. Amazon 
 
 ---
 
-*[Back to Top 20 Coffee Books index](Readme.md)*
+*[Back to Top 20 Coffee Books index](readme.md)*

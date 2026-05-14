@@ -62,5 +62,5 @@ Lani Kingston's approach to coffee literature is distinctive: she leads with sci
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
 *Category: [Brewing Science](../categories/brewing-science.md)*

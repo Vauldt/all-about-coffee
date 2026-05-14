@@ -14,7 +14,7 @@ tags: []
 |---|---|
 | **Author** | Scott Rao |
 | **Year** | 2014 |
-| **Category** | [Barista & Craft Guides](../categories/Barista%20guides.md) |
+| **Category** | [Barista & Craft Guides](../categories/barista-guides.md) |
 | **Goodreads Rating** | 4.39 / 5 (363 ratings) |
 | **Price (USD)** | $45--$55 |
 | **Target Audience** | Coffee roasters, aspiring roasters, cafe owners with roasting operations |
@@ -62,5 +62,5 @@ The Coffee Roaster's Companion is widely regarded as the most important book eve
 
 ---
 
-*Part of the [Top 20 Coffee Books](../Readme.md) reference guide.*  
-*Category: [Barista & Craft Guides](../categories/Barista%20guides.md)*
+*Part of the [Top 20 Coffee Books](../readme.md) reference guide.*  
+*Category: [Barista & Craft Guides](../categories/barista-guides.md)*

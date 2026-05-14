@@ -14,8 +14,8 @@ related: []
 Here is the schema for this section:
 
 coffee-books-md/
-├── [Readme](Books/Readme.md)   ← master index with full table
-├── [Introduction](Books/Introduction.md)  ← selection methodology, how to use
+├── [Readme](../books/readme.md)   ← master index with full table
+├── [Introduction](../books/introduction.md)  ← selection methodology, how to use
 ├── top-picks.md                 ← 5 reader archetypes × 3 picks each
 ├── comparison-table.md          ← all 20 books in one table
 ├── books/
