@@ -50,6 +50,49 @@ matthew-mkdocs-site/
 
 This import builds successfully with `mkdocs build --strict`.
 
+## Updating from Obsidian
+
+`scripts/sync_coffee_vault.py` is the single command for refreshing the
+site from Matthew's local Obsidian vault. It imports Markdown + assets,
+slugifies paths, converts Obsidian wikilinks and embeds where uniquely
+resolvable, generates folder index pages, cleans up known broken
+references, and (optionally) runs a strict build and pushes the result.
+
+```bash
+# Default vault path: /Users/chris/Obsidian Vaults/Coffee/AllAboutCoffee
+python3 scripts/sync_coffee_vault.py
+
+# Preview locally with live reload
+mkdocs serve
+
+# Strict production build (same check CI runs)
+mkdocs build --strict
+
+# Full local update -> strict build -> commit -> push to origin
+python3 scripts/sync_coffee_vault.py --push
+
+# Override the vault location if needed
+python3 scripts/sync_coffee_vault.py \
+    --vault-path "/Users/chris/Obsidian Vaults/Coffee/AllAboutCoffee"
+
+# Sync without running the strict build (faster iteration)
+python3 scripts/sync_coffee_vault.py --no-build
+```
+
+Equivalent `make` targets are provided for convenience:
+
+```bash
+make sync          # Sync vault + strict build
+make sync-no-build # Sync only, no build
+make sync-push     # Sync, strict build, commit, push
+make serve         # Live preview
+make strict        # mkdocs build --strict
+```
+
+The script rewrites everything under `docs/coffee/` and
+`docs/assets/coffee/` on each run, so do not hand-edit those folders —
+edit notes in the Obsidian vault and re-run the sync.
+
 ## GitHub Pages deployment
 
 The repository includes `.github/workflows/deploy-pages.yml`, which publishes the site with GitHub Actions.
