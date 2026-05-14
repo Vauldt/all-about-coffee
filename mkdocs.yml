@@ -1,7 +1,7 @@
 site_name: Coffeepedia
 site_description: Matthew Clairmont's coffee knowledge base, published from an Obsidian/Markdown vault.
 site_author: Matthew Clairmont
-# site_url: https://example.com   # Set this when deploying.
+site_url: https://vauldt.github.io/all-about-coffee/
 
 docs_dir: docs
 # Use directory URLs so links between notes mirror Obsidian-style folder paths.
