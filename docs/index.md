@@ -1,13 +1,13 @@
 ---
-title: Home
-description: A structured, searchable knowledge base built from Markdown.
+title: Coffeepedia
+description: A structured, searchable coffee knowledge base built from Markdown.
 tags:
   - reference
 ---
 
-# Matthew's Knowledge Site
+# Coffeepedia
 
-Welcome. This is a living knowledge base — a place to consolidate notes, references, and operational documentation that have grown out of an Obsidian vault into a structured, searchable site.
+Welcome. This is a living coffee knowledge base — a place to publish the curated parts of Matthew's Obsidian coffee vault as a structured, searchable site.
 
 !!! tip "Built for fast retrieval"
     Everything here is Markdown, version-controlled, and full-text searchable. Use the search bar (top-right) or jump straight to a section below.
@@ -32,21 +32,13 @@ Welcome. This is a living knowledge base — a place to consolidate notes, refer
 
     [:octicons-arrow-right-24: See the architecture](knowledge-architecture.md)
 
--   :material-coffee:{ .lg .middle } **Coffee**
+-   :material-coffee:{ .lg .middle } **Coffee Vault**
 
     ---
 
-    Brewing methods, equipment notes, green-buying references, and tasting frameworks.
+    Brewing science, origins, processing, equipment, sensory practice, roasting, café operations, and professional education.
 
     [:octicons-arrow-right-24: Open coffee notes](coffee/index.md)
-
--   :material-traffic-light:{ .lg .middle } **Traffic Operations**
-
-    ---
-
-    Field references, signal-timing notes, incident-management procedures, and standards.
-
-    [:octicons-arrow-right-24: Open traffic ops](traffic-operations/index.md)
 
 </div>
 
@@ -58,4 +50,4 @@ Welcome. This is a living knowledge base — a place to consolidate notes, refer
 
 ## What's *not* here
 
-Daily journals, ephemeral meeting notes, and anything containing sensitive client or operational data. Those stay in the private Obsidian vault.
+Daily journals, inbox captures, templates, trash, and private automation/system folders stay out of the published site.

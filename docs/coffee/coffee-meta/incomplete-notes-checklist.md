@@ -1,0 +1,856 @@
+# Incomplete Notes Checklist
+
+Generated: 2026-05-12. Total incomplete: 842 (🌱 250 stubs · 🔄 24 in progress · ⬜ 568 no status)
+
+## 🔄 In Progress (24)
+
+- [ ] Around the World/African Coffee/Africa in General/African Coffee Comparisons
+- [ ] Around the World/African Coffee/Africa in General/African Coffee Culture
+- [ ] Around the World/African Coffee/Africa in General/African Coffee Market
+- [ ] Around the World/African Coffee/Africa in General/African Coffee Thematic Index
+- [ ] Barista/Automation and the Barista Profession
+- [ ] Barista/Robotic Coffee Barista Market
+- [ ] Brewing/Immersion Brew Methods
+- [ ] Coffee Business/AST_Certification
+- [ ] Coffee Business/French Coffee Syndicate
+- [ ] Coffee Equipment/Coffee Equipment /Briggo
+- [ ] Coffee Equipment/Coffee Equipment /Café X Technologies
+- [ ] Coffee Equipment/Coffee Equipment /Rozum Cafe
+- [ ] Coffee Equipment/FIMO Book A2
+- [ ] Coffee Equipment/FIMO Book A5
+- [ ] Coffee Equipment/Hybrid roasters
+- [ ] Coffee Geography/Guerrero Coffee Region
+- [ ] Coffee Geography/Huila Region Terroir
+- [ ] Coffee Geography/Kenya
+- [ ] Coffee Geography/Mae Hong Son Coffee Region
+- [ ] Coffee Geography/Nan and Phrae Coffee Regions
+- [ ] Coffee Geography/Northeast India Coffee Regions
+- [ ] Coffee Geography/Pakistan
+- [ ] Tasting Coffee/AI_Sensory_Prediction
+- [ ] Tasting Coffee/ANOVA
+
+## 🌱 Stubs (250)
+
+- [ ] Around the World/African Coffee/African Cup of Excellence
+- [ ] Around the World/African Coffee/Burundi/Burundi Specialty Development
+- [ ] Around the World/African Coffee/Ethiopian Coffee/Ethiopian Specialty Coffee
+- [ ] Around the World/African Coffee/Ethiopian Coffee/Ethiopian Terroir Profile
+- [ ] Around the World/African Coffee/Kenyan Coffee Excellence
+- [ ] Around the World/African Coffee/Rwanda Coffee Resurrection
+- [ ] Around the World/Asia/Asian Coffee Future
+- [ ] Around the World/Asia/Blue Bottle's Japanese Influence
+- [ ] Around the World/Asia/Chinese Specialty Development
+- [ ] Around the World/Asia/Japanese Brewing Methods
+- [ ] Around the World/Asia/Japanese Coffee Aesthetics
+- [ ] Around the World/Asia/Japanese Competition Success
+- [ ] Around the World/Asia/Singapore Hub
+- [ ] Around the World/Asia/South Korean Coffee Boom
+- [ ] Around the World/Asia/Thai Coffee
+- [ ] Around the World/Asia/Tokyo Specialty Scene
+- [ ] Around the World/Australia/Aussie Cafe Culture
+- [ ] Around the World/Australia/Australian Barista Influence
+- [ ] Around the World/Australia/Melbourne Coffee Scene
+- [ ] Around the World/Australia/New Zealand Specialty Coffee
+- [ ] Around the World/Central America/Costa Rican Microlots
+- [ ] Around the World/Central America/Guatemala Specialty
+- [ ] Around the World/Europe/Amsterdam Coffee
+- [ ] Around the World/Europe/Berlin Specialty Coffee
+- [ ] Around the World/Europe/European Coffee Tourism
+- [ ] Around the World/Europe/European Competition Scene
+- [ ] Around the World/Europe/London Coffee Scene
+- [ ] Around the World/Europe/Paris Coffee Culture
+- [ ] Around the World/Nth America/Toronto and Vancouver
+- [ ] Around the World/Nth America/USA/East Coast Specialty
+- [ ] Around the World/Nth America/USA/Los Angeles Coffee Scene
+- [ ] Around the World/Nth America/USA/New York Specialty Coffee
+- [ ] Around the World/Nth America/USA/Portland Coffee Culture
+- [ ] Around the World/Nth America/USA/San Francisco Bay Area
+- [ ] Around the World/Nth America/USA/Seattle Third Wave
+- [ ] Around the World/South America/Colombian Specialty Coffee
+- [ ] Around the World/Sth America/Brazil Specialty Development
+- [ ] Barista/Barista Level 1 Skills /Barista Level 1 Skills
+- [ ] Brewing Fundamentals/Brewing Methods
+- [ ] Brewing Fundamentals/Extraction Measurement
+- [ ] Brewing Fundamentals/Extraction
+- [ ] Brewing Methods/4:6 Method
+- [ ] Brewing/Grinding Coffee
+- [ ] Cafe Drinks/Cappuccino
+- [ ] Cafe Drinks/Cascara
+- [ ] Cafe Drinks/Coffee Based Drinks/Filter Coffee
+- [ ] Coffee Brewing/Coffee - Water Chemistry
+- [ ] Coffee Brewing/Coffee Brewing Fundamentals
+- [ ] Coffee Brewing/Coffee Brewing
+- [ ] Coffee Brewing/Coffee Freshness and Storage
+- [ ] Coffee Brewing/Coffee-Extraction-Variables
+- [ ] Coffee Brewing/Coffee-to-Water Ratio
+- [ ] Coffee Brewing/Cold brew
+- [ ] Coffee Brewing/Drip coffee
+- [ ] Coffee Brewing/Extraction_Brewing_Defects
+- [ ] Coffee Business/AST_Sensory_Analysis
+- [ ] Coffee Business/Asian Coffee Association
+- [ ] Coffee Business/Barista Guild of America
+- [ ] Coffee Business/Barista Hustle Courses
+- [ ] Coffee Business/Barista Magazine
+- [ ] Coffee Business/CFC (French Coffee Council)
+- [ ] Coffee Business/COVID-19 Impact on Coffee Industry
+- [ ] Coffee Business/CQI Mission and History
+- [ ] Coffee Business/Carbon Footprint of Coffee
+- [ ] Coffee Business/Carbon Neutrality Initiatives
+- [ ] Coffee Business/Carbon-Neutral Coffee
+- [ ] Coffee Business/Celebrity Baristas
+- [ ] Coffee Business/Circular Economy
+- [ ] Coffee Business/Climate Adaptation
+- [ ] Coffee Business/Coffee Auctions
+- [ ] Coffee Business/Coffee Books
+- [ ] Coffee Business/Coffee Contracts
+- [ ] Coffee Business/Coffee Price Crisis
+- [ ] Coffee Business/Coffee Review
+- [ ] Coffee Business/Coffee Roasting Championship
+- [ ] Coffee Business/Cup Tasters Championship
+- [ ] Coffee Business/Deforestation and Coffee
+- [ ] Coffee Business/European Coffee Trip
+- [ ] Coffee Business/Gender Equity in Coffee
+- [ ] Coffee Business/George Howell Career
+- [ ] Coffee Business/George Howell Coffee
+- [ ] Coffee Business/Heart Coffee Roasters
+- [ ] Coffee Business/Kaffa Roastery
+- [ ] Coffee Business/Koppi Coffee
+- [ ] Coffee Business/Labour Practices
+- [ ] Coffee Business/Latte Art Throwdowns
+- [ ] Coffee Business/Mail-Order Specialty Coffee
+- [ ] Coffee Business/National Championships
+- [ ] Coffee Business/National Coffee Associations
+- [ ] Coffee Business/Parlor Coffee
+- [ ] Coffee Business/Perfect Daily Grind
+- [ ] Coffee Business/Producer-Led Brands
+- [ ] Coffee Business/Regenerative Agriculture
+- [ ] Coffee Business/SCA Annual Expo
+- [ ] Coffee Business/Signature Beverage Innovation
+- [ ] Coffee Business/Specialty Coffee Press
+- [ ] Coffee Business/Sprudge
+- [ ] Coffee Business/Standart Magazine
+- [ ] Coffee Business/Subscription Services
+- [ ] Coffee Business/Tim Wendelboe Coffee
+- [ ] Coffee Business/WCE Structure
+- [ ] Coffee Business/Water Use in Coffee
+- [ ] Coffee Business/World Coffee in Good Spirits
+- [ ] Coffee Business/World Latte Art Championship
+- [ ] Coffee Culture/Café au lait
+- [ ] Coffee Drinks/Bulletproof coffee
+- [ ] Coffee Drinks/Caffè latte
+- [ ] Coffee Drinks/Caffè macchiato
+- [ ] Coffee Drinks/Chai Latte
+- [ ] Coffee Drinks/Coffee Drinks and Recipes
+- [ ] Coffee Education/Coffee Concepts
+- [ ] Coffee Education/Coffee Fundamentals
+- [ ] Coffee Education/Coffee Knowledge Base
+- [ ] Coffee Education/Coffee Knowledgebase
+- [ ] Coffee Education/Q Grader Programme
+- [ ] Coffee Education/Q Processing Grader
+- [ ] Coffee Education/R Grader Programme
+- [ ] Coffee Education/SCA Coffee Skills Programme
+- [ ] Coffee Equipment/Affordable Grinders
+- [ ] Coffee Equipment/Affordable Quality Equipment
+- [ ] Coffee Equipment/Cleaning and Maintenance
+- [ ] Coffee Equipment/EK43 Adoption
+- [ ] Coffee Equipment/Entry-Level Espresso
+- [ ] Coffee Equipment/Grind-by-Weight Technology
+- [ ] Coffee Geography/Coffee Origins and Geography
+- [ ] Coffee Geography/Coffee Terroir Map of Content
+- [ ] Coffee Geography/Coffee Terroir
+- [ ] Coffee Geography/Colombia - The Quality Icon
+- [ ] Coffee Geography/Colombian Terroir Profile
+- [ ] Coffee Geography/Ecuador - High Altitude Potential
+- [ ] Coffee Geography/Frost Sensitivity
+- [ ] Coffee Geography/Kaghan Valley Coffee Region
+- [ ] Coffee Geography/Swat Valley Coffee Region
+- [ ] Coffee History/1974 - Specialty Coffee Term Coined
+- [ ] Coffee History/1982 - SCAA Founded
+- [ ] Coffee History/1990s Specialty Expansion
+- [ ] Coffee History/1996 - Q Grader Programme Established
+- [ ] Coffee History/1999 - Cup of Excellence Founded
+- [ ] Coffee History/2000 - First World Barista Championship
+- [ ] Coffee History/2000s Third Wave Emergence
+- [ ] Coffee History/2011 - World Brewers Cup Founded
+- [ ] Coffee History/2013 - Mahlkönig EK43 Discovery
+- [ ] Coffee History/2020s Sustainability Focus
+- [ ] Coffee History/Alfred Peet Biography
+- [ ] Coffee History/Buddy Dante
+- [ ] Coffee History/Coffee History
+- [ ] Coffee History/Coffee as Commodity
+- [ ] Coffee History/Dark Roasting Philosophy
+- [ ] Coffee History/Early Specialty Roasters
+- [ ] Coffee History/Erna Knutsen Biography
+- [ ] Coffee History/Espresso Drink Popularisation
+- [ ] Coffee History/Instant Coffee Development
+- [ ] Coffee History/Madcat
+- [ ] Coffee History/Peet's Coffee History
+- [ ] Coffee History/Starbucks Evolution
+- [ ] Coffee History/Supermarket Coffee Brands
+- [ ] Coffee Plant-science/Coffee Botany Overview
+- [ ] Coffee Processing/Coffee Bean Processing
+- [ ] Coffee Processing/Coffee Processing Methods
+- [ ] Coffee Processing/Fermentation Control
+- [ ] Coffee Processing/Processing Innovation
+- [ ] Coffee Processing/Processing Innovations
+- [ ] Coffee Processing/Processing as Differentiation
+- [ ] Coffee Processing/Yeast Inoculation
+- [ ] Coffee Roasting/Coffee Roasting and Flavour
+- [ ] Coffee Roasting/Coffee Roasting
+- [ ] Coffee Roasting/Dark Roasting Advocacy
+- [ ] Coffee Roasting/Fluid Bed Roasting
+- [ ] Coffee Roasting/Light Roast Philosophy
+- [ ] Coffee Roasting/Omni-Roasting
+- [ ] Coffee Roasting/Roast Development Theory
+- [ ] Coffee Roasting/Roast Profiling
+- [ ] Coffee Roasting/Roasting Software
+- [ ] Coffee Roasting/Sample Roasting Protocol
+- [ ] Coffee Roasting/Sample Roasting
+- [ ] Coffee Roasting/Small-Batch Roasting
+- [ ] Coffee Varieties/Climate-Resilient Varieties
+- [ ] Coffee/Coffee Origin and Processing
+- [ ] Coffee/Equipment and Tools
+- [ ] Coffee/Extraction Process
+- [ ] Extraction/Extraction Chemistry
+- [ ] Green Coffee Beans/Green Coffee Storage
+- [ ] Roasting Coffee Beans/Caramelisation
+- [ ] Specialty Coffee/80-Point Threshold
+- [ ] Specialty Coffee/Approachable Specialty Coffee
+- [ ] Specialty Coffee/Australian Model
+- [ ] Specialty Coffee/Brew Bar Concept
+- [ ] Specialty Coffee/Certification Limitations
+- [ ] Specialty Coffee/Common Misconceptions
+- [ ] Specialty Coffee/Competition Culture Impact
+- [ ] Specialty Coffee/Competition Culture
+- [ ] Specialty Coffee/Competition Standards
+- [ ] Specialty Coffee/Consumer Education
+- [ ] Specialty Coffee/Convenience Fourth Wave
+- [ ] Specialty Coffee/Convenience with Quality
+- [ ] Specialty Coffee/Direct Trade Development
+- [ ] Specialty Coffee/Direct Trade Economics
+- [ ] Specialty Coffee/Direct Trade Emerges
+- [ ] Specialty Coffee/Direct Trade Pioneer
+- [ ] Specialty Coffee/Direct Trade vs Fair Trade
+- [ ] Specialty Coffee/Direct Trade
+- [ ] Specialty Coffee/Environmental Sustainability
+- [ ] Specialty Coffee/Equity Fourth Wave
+- [ ] Specialty Coffee/Equity in Coffee
+- [ ] Specialty Coffee/Ethical Coffee
+- [ ] Specialty Coffee/Fourth Wave Definitions
+- [ ] Specialty Coffee/Home Brewing Boom
+- [ ] Specialty Coffee/Home Brewing Renaissance
+- [ ] Specialty Coffee/Indigenous Coffee Producers
+- [ ] Specialty Coffee/Light Roasting Movement
+- [ ] Specialty Coffee/Nordic Competition Dominance
+- [ ] Specialty Coffee/Nordic Roasting Profile
+- [ ] Specialty Coffee/Nordic Roasting
+- [ ] Specialty Coffee/Origin Trip Programmes
+- [ ] Specialty Coffee/Origin Trips
+- [ ] Specialty Coffee/Pour-Over Popularisation
+- [ ] Specialty Coffee/Producer Training
+- [ ] Specialty Coffee/Quality Standards
+- [ ] Specialty Coffee/Scandinavian Aesthetics
+- [ ] Specialty Coffee/Science-Driven Coffee
+- [ ] Specialty Coffee/Science-Driven Fourth Wave
+- [ ] Specialty Coffee/Specialty Coffee Affordability
+- [ ] Specialty Coffee/Specialty Coffee Cafes
+- [ ] Specialty Coffee/Specialty Coffee Elitism
+- [ ] Specialty Coffee/Specialty Coffee Globalisation
+- [ ] Specialty Coffee/Specialty Coffee Mainstream
+- [ ] Specialty Coffee/Specialty Coffee Term Origin
+- [ ] Specialty Coffee/Specialty vs Organic
+- [ ] Specialty Coffee/Sustainability Challenges
+- [ ] Specialty Coffee/Sustainability Fourth Wave
+- [ ] Specialty Coffee/Third Wave Cafe Design
+- [ ] Specialty Coffee/Traceability
+- [ ] Specialty Coffee/Transparency Standards
+- [ ] Specialty Coffee/What is Specialty Coffee
+- [ ] coffee brewing espresso/Cuban Coffee
+- [ ] coffee brewing science/Brewing Control Chart
+- [ ] coffee brewing science/Coffee Extraction Science
+- [ ] coffee brewing science/Particle Size Distribution
+- [ ] coffee brewing science/Refractometry
+- [ ] coffee brewing science/Water Chemistry Research
+- [ ] coffee green-beans/Coffee Beans Overview
+- [ ] coffee green-beans/Coffee Beans
+- [ ] coffee green-beans/Coffee Quality and Grading
+- [ ] coffee green-beans/Defect Identification
+- [ ] coffee science/Coffee Science
+- [ ] coffee science/Coffee as Medicine
+- [ ] coffee science/Functional Coffee
+- [ ] coffee tasting/Cupping Methodology
+- [ ] coffee tasting/How to Taste Coffee
+- [ ] coffee tasting/Tasting Notes
+
+## ⬜ No Status Field (568)
+
+> These files predate the status convention or are MOC/navigation files. Many may not require a status field.
+
+- [ ] [All About Coffee — Map of Content](../all-about-coffee-map-of-content.md)
+- [ ] Around the World/African Coffee/Africa in General/African Coffee Origins
+- [ ] Around the World/African Coffee/Burundi/Burundi Coffee
+- [ ] Around the World/African Coffee/Ethiopian Coffee/Coffee in Ethiopia
+- [ ] Around the World/African Coffee/Ethiopian Coffee/Ethiopia and Coffee
+- [ ] Around the World/African Coffee/Ethiopian Coffee/Ethiopia
+- [ ] Around the World/African Coffee/Ethiopian Coffee/Ethiopian Coffee Overview
+- [ ] Around the World/African Coffee/Ethiopian Coffee/Ethiopian Southern Regions
+- [ ] Around the World/African Coffee/Malawi/Malawi Coffee
+- [ ] Around the World/African Coffee/Uganda/Uganda Coffee
+- [ ] Around the World/African Coffee/Zimbabwe/Chipinge
+- [ ] Around the World/African Coffee/Zimbabwe/Vumba Mountains
+- [ ] Around the World/African Coffee/Zimbabwe/Zimbabwe
+- [ ] Around the World/Asia/Asia
+- [ ] Around the World/Australia/Australia and coffee
+- [ ] Around the World/Australia/New-South-Wales-Coffee-Growing-Region
+- [ ] Around the World/Australia/buddy_dante
+- [ ] Around the World/Australia/queensland_coffee_guide
+- [ ] Around the World/Central America/Central America
+- [ ] Around the World/EU Deforestation Regulation (EUDR)
+- [ ] Around the World/Europe/Europe
+- [ ] Around the World/Nth America/USA Data Files/About the USA
+- [ ] Around the World/South America/South America
+- [ ] Barista/Barista Knowledge Base
+- [ ] Barista/Barista Level 2 Skills /Barista Level 2 Skills
+- [ ] Barista/Barista Level 3 Skills /Barista Level 3 Skills
+- [ ] Barista/Barista Level 4 Skills /Barista Level 4 Skills
+- [ ] Barista/Barista Sensory Skills
+- [ ] Barista/Barista Service and Leadership Skills
+- [ ] Barista/Barista Skill Progression Levels
+- [ ] Barista/Barista Technical Skills
+- [ ] Barista/sca-barista-skills-training-guide
+- [ ] [Basic Communication](../basic-communication.md)
+- [ ] Books/Introduction
+- [ ] Books/Readme
+- [ ] Books/books/01-world-atlas-of-coffee
+- [ ] Books/books/02-how-to-make-the-best-coffee-at-home
+- [ ] Books/books/03-physics-of-filter-coffee
+- [ ] Books/books/04-craft-coffee-a-manual
+- [ ] Books/books/05-everything-but-espresso
+- [ ] Books/books/06-how-to-make-coffee-science
+- [ ] Books/books/07-uncommon-grounds
+- [ ] Books/books/08-coffee-a-dark-history
+- [ ] Books/books/09-the-monk-of-mokha
+- [ ] Books/books/10-god-in-a-cup
+- [ ] Books/books/11-blue-bottle-craft-of-coffee
+- [ ] Books/books/12-the-devils-cup
+- [ ] Books/books/13-professional-baristas-handbook
+- [ ] Books/books/14-coffee-roasters-companion
+- [ ] Books/books/15-coffee-dictionary
+- [ ] Books/books/16-coffee-obsession
+- [ ] Books/books/17-the-new-rules-of-coffee
+- [ ] Books/books/18-what-i-know-about-running-coffee-shops
+- [ ] Books/books/19-coffee-roasting-best-practices
+- [ ] Books/books/20-lonely-planet-global-coffee-tour
+- [ ] Books/categories/Barista guides
+- [ ] Books/categories/brewing-science
+- [ ] Books/categories/history-culture
+- [ ] Books/categories/specialty-industry
+- [ ] Books/comparison-table
+- [ ] Books/top-picks
+- [ ] Botany/Botany & Varietals
+- [ ] Brewing Fundamentals/Channeling and Evenness
+- [ ] Brewing Fundamentals/Channeling
+- [ ] Brewing Fundamentals/Measuring Coffee Extraction
+- [ ] Brewing Fundamentals/Over-extraction and Under-extraction
+- [ ] Brewing Fundamentals/TDS and Extraction Yield
+- [ ] Brewing Methods/AeroPress 1
+- [ ] Brewing Methods/Coffee Brewing Methods MoC
+- [ ] Brewing/Coffee Brewing Espresso/Espresso/Puck Preparation
+- [ ] Brewing/Coffee Brewing Espresso/Espresso/Tamper Types
+- [ ] Brewing/Coffee Brewing Espresso/Espresso/Tamping Fundamentals
+- [ ] Brewing/Distribution_Techniques
+- [ ] Brewing/Dosing_Accuracy
+- [ ] Brewing/French Press
+- [ ] Brewing/Grind Size 1
+- [ ] Brewing/Immersion Brewing
+- [ ] Brewing/Immersion
+- [ ] Brewing/Method Selection Guide
+- [ ] Brewing/Strength
+- [ ] Brewing/Water Composition
+- [ ] Brewing/Water Distribution
+- [ ] Cafe Drink/How to Make a Cortado
+- [ ] Cafe Drink/Iced Coffee
+- [ ] Cafe Drinks/Coffee Based Drinks/Affogato
+- [ ] Cafe Drinks/Coffee Based Drinks/Americano
+- [ ] Cafe Drinks/Coffee Based Drinks/Café au Lait
+- [ ] Cafe Drinks/Coffee Based Drinks/Cappuccino
+- [ ] Cafe Drinks/Coffee Based Drinks/Cold Brew Coffee
+- [ ] Cafe Drinks/Coffee Based Drinks/Dalgona
+- [ ] Cafe Drinks/Coffee Based Drinks/Doppio
+- [ ] Cafe Drinks/Coffee Based Drinks/Flat White
+- [ ] Cafe Drinks/Coffee Based Drinks/Latte
+- [ ] Cafe Drinks/Coffee Based Drinks/Macchiato
+- [ ] Cafe Drinks/Coffee Based Drinks/Piccolo Latte
+- [ ] Cafe Drinks/Coffee Based Drinks/Top 20 Cafe Coffee Drinks
+- [ ] Cafe Drinks/Coffee Based Drinks/Untitled
+- [ ] Cafe Drinks/Coffee Based Drinks/Vietnamese Iced Coffee (Ca Phe Sua Da)
+- [ ] Cafe Drinks/Non Coffee Drinks/Matcha Latte
+- [ ] Café-management/Running a Cafe
+- [ ] Careers/Coffee Consultant
+- [ ] Careers/Coffee Educator
+- [ ] Careers/Coffee Event Coordinator
+- [ ] Careers/Coffee Marketing Manager
+- [ ] Careers/Coffee Sales Representative
+- [ ] Careers/Coffee Sensory Scientist - Coffee Researcher
+- [ ] Careers/Coffee Social Media Manager
+- [ ] Coffee Beans/Coffee Beans
+- [ ] Coffee Beans/Coffee Cherry Structure
+- [ ] Coffee Brewing/Bloom 1
+- [ ] Coffee Brewing/Brew Ratio 1
+- [ ] Coffee Brewing/Brew Ratio 2
+- [ ] Coffee Brewing/Brew Ratio and Yield
+- [ ] Coffee Brewing/Percolation & Gravity Brewing
+- [ ] Coffee Brewing/Percolation (Pour-Over) Brew Methods
+- [ ] Coffee Brewing/Percolation
+- [ ] Coffee Brewing/Pour Over 1
+- [ ] Coffee Brewing/Pour-over (brew method)
+- [ ] Coffee Brewing/Pour-over
+- [ ] Coffee Brewing/Serving_Temperature
+- [ ] Coffee Brewing/Steeped Coffee
+- [ ] Coffee Brewing/Temperature Stability
+- [ ] Coffee Brewing/Temperature_Control
+- [ ] Coffee Brewing/The Chemistry of Coffee Extraction
+- [ ] Coffee Brewing/Troubleshooting
+- [ ] Coffee Brewing/Vacuum (Siphon) Brewing
+- [ ] Coffee Brewing/Water Chemistry Basics
+- [ ] Coffee Brewing/Water Quality 1
+- [ ] Coffee Brewing/Water Temperature 1
+- [ ] Coffee Brewing/Water Treatment
+- [ ] Coffee Brewing/Which pour-over should I use?
+- [ ] Coffee Business/Independent Cafés vs Chains
+- [ ] Coffee Business/Industry Trends
+- [ ] Coffee Business/International Coffee Organization
+- [ ] Coffee Business/Menu Basics
+- [ ] Coffee Business/Mobile Ordering and Café Interactions
+- [ ] Coffee Business/Multi-Tasking
+- [ ] Coffee Business/Opening and Closing Procedures
+- [ ] Coffee Business/Quality Control Systems
+- [ ] Coffee Business/Recipe Development
+- [ ] Coffee Business/Running a Cafe 1
+- [ ] Coffee Business/Running a Cafe 2
+- [ ] Coffee Business/SCA Membership
+- [ ] Coffee Business/SCA_Events
+- [ ] Coffee Business/Signature Beverage Creation
+- [ ] Coffee Business/Social Media and Café Trends
+- [ ] Coffee Business/Staff Training Culture and Improvement
+- [ ] Coffee Business/Staff Training Customer Service
+- [ ] Coffee Business/Staff Training Delivery Methods and Assessment
+- [ ] Coffee Business/Staff Training Operations and Systems
+- [ ] Coffee Business/Staff Training Product Knowledge
+- [ ] Coffee Business/Staff Training Technical Skills
+- [ ] Coffee Business/Staff_Training_Programmes
+- [ ] Coffee Business/Subscription Coffee and Delivery Apps
+- [ ] Coffee Business/Syndicat Français du Café
+- [ ] Coffee Business/Training Staff in Quality Control
+- [ ] Coffee Business/Training_Staff_in_Quality_Control
+- [ ] Coffee Business/Workflow Optimisation
+- [ ] Coffee Culture/Café & culture
+- [ ] Coffee Culture/Common Questions About Coffee Culture 1
+- [ ] Coffee Culture/Latte Art and Café Experience
+- [ ] Coffee Culture/Melbourne Coffee Culture
+- [ ] Coffee Culture/Modern Cafés as Idea Hubs
+- [ ] Coffee Culture/Morning Coffee Routine and Productivity
+- [ ] Coffee Culture/National Coffee Drinks and Culture
+- [ ] Coffee Culture/Regional Coffee Drinks by Continent
+- [ ] Coffee Culture/Remote Work and Café Culture
+- [ ] Coffee Culture/Robot Baristas and Coffee Culture
+- [ ] Coffee Culture/Smell and Sound in Cafés
+- [ ] Coffee Culture/Wellness Culture and Coffee
+- [ ] Coffee Culture/Working in Cafés vs Offices
+- [ ] Coffee Drinks/Recipe - Amaretto Affogato Cocktail
+- [ ] Coffee Drinks/Recipe - Black Russian Cocktail
+- [ ] Coffee Drinks/Recipe - Carajillo Cocktail
+- [ ] Coffee Drinks/Recipe - Coffee Cocktails
+- [ ] Coffee Drinks/Recipe - Coffee Old Fashioned Cocktail
+- [ ] Coffee Drinks/Recipe - Cold Brew Negroni Cocktail
+- [ ] Coffee Drinks/Recipe - Espresso Martini Cocktail
+- [ ] Coffee Drinks/Recipe - Espresso Tonic Cocktail
+- [ ] Coffee Drinks/Recipe - Irish Coffee Cocktail
+- [ ] Coffee Drinks/Recipe - White Russian Cocktail
+- [ ] Coffee Drinks/Recipe card for Bavarian coffee
+- [ ] Coffee Drinks/Recipe card for Flat White
+- [ ] Coffee Drinks/Recipe cards
+- [ ] Coffee Drinks/Sweetened Coffee
+- [ ] Coffee Education/James Hoffman
+- [ ] Coffee Education/Lance Hendrick
+- [ ] Coffee Education/Learning African Coffee
+- [ ] Coffee Education/Mastery-Level Consistency
+- [ ] Coffee Education/Multi-Method Expertise
+- [ ] Coffee Education/Navigate by Goal 1
+- [ ] Coffee Education/Navigate by Topic 1
+- [ ] Coffee Education/Review all Files
+- [ ] Coffee Education/Roaster Kat
+- [ ] Coffee Education/SCA Certified Home Brewer Program
+- [ ] Coffee Education/SCA Standards and Protocols
+- [ ] Coffee Education/SCA_Authorized_Trainer
+- [ ] Coffee Education/SCA_Coffee_Diploma
+- [ ] Coffee Education/SCA_Coffee_Skills_Program
+- [ ] Coffee Education/Second Brain
+- [ ] Coffee Education/Sensory Training Leadership
+- [ ] Coffee Education/Speed Development
+- [ ] Coffee Education/Structure
+- [ ] Coffee Education/Tag Index
+- [ ] Coffee Education/Untitled
+- [ ] Coffee Education/Workspace
+- [ ] Coffee Education/YouTube Channels I Follow
+- [ ] Coffee Education/YouTube Channels for Coffee Roasting
+- [ ] Coffee Education/watch?v=IszQ2JR3Olc&sttick=0
+- [ ] Coffee Equipment/Coffee Equipment /Blade grinders
+- [ ] Coffee Equipment/Coffee Equipment /Coffee Equipment 1
+- [ ] Coffee Equipment/Coffee Equipment /Coffee Equipment MOC 1
+- [ ] Coffee Equipment/Coffee Equipment /Coffee Equipment
+- [ ] Coffee Equipment/Coffee Equipment /Coffee Euipment
+- [ ] Coffee Equipment/Kalita Wave
+- [ ] Coffee Equipment/List of top Espresso Machine Brands
+- [ ] Coffee Equipment/Maintenance Expertise
+- [ ] Coffee Equipment/Particle Distribution
+- [ ] Coffee Equipment/Portafilter and Baskets
+- [ ] Coffee Equipment/Recent developments in Grinders
+- [ ] Coffee Equipment/Roasters
+- [ ] Coffee Equipment/SiphonVacuum Pot
+- [ ] Coffee Equipment/Thermometers and Temperature Control
+- [ ] Coffee Equipment/Top Automatic Espresso Machine Brands
+- [ ] Coffee Equipment/Top Manual Espresso Machine Brands
+- [ ] Coffee Equipment/V60
+- [ ] Coffee Geography/Brazil - The Giant
+- [ ] Coffee Geography/Climate Change and Coffee
+- [ ] Coffee Geography/Climate and Weather
+- [ ] Coffee Geography/Indonesia Terroir
+- [ ] Coffee Geography/Indonesian Coffee 1
+- [ ] Coffee Geography/Indonesian Terroir Profile
+- [ ] Coffee Geography/Indonesia’s Aceh Province Coffee
+- [ ] Coffee Geography/Jimma Coffee Region
+- [ ] Coffee Geography/Kayanza Province Terroir
+- [ ] Coffee Geography/Kenya Coffee
+- [ ] Coffee Geography/Kenya Terroir
+- [ ] Coffee Geography/Kenyan Terroir Profile
+- [ ] Coffee Geography/Key Concepts in Terroir
+- [ ] Coffee Geography/Key Producing Regions and Their Character
+- [ ] Coffee Geography/Kiambu Coffee
+- [ ] Coffee Geography/Kirinyaga Coffee
+- [ ] Coffee Geography/Kirinyaga Region Terroir
+- [ ] Coffee Geography/Limu Coffee Region
+- [ ] Coffee Geography/Mount Kilimanjaro Region
+- [ ] Coffee Geography/Muranga Region Terroir
+- [ ] Coffee Geography/Muyinga Province Terroir
+- [ ] Coffee Geography/Narino Region Terroir
+- [ ] Coffee Geography/Ngozi Province Terroir
+- [ ] Coffee Geography/Northern Rivers Region Terroir
+- [ ] Coffee Geography/Nyeri Coffee
+- [ ] Coffee Geography/Nyeri Region Terroir
+- [ ] Coffee Geography/Origin Deep Dive
+- [ ] Coffee Geography/Peru - The Organic Leader
+- [ ] Coffee Geography/Rainfall Patterns
+- [ ] Coffee Geography/Regional Terroir Profiles
+- [ ] Coffee Geography/Rwanda Coffee
+- [ ] Coffee Geography/Rwanda_Coffee
+- [ ] Coffee Geography/Sidamo Coffee
+- [ ] Coffee Geography/Sidamo Region Terroir
+- [ ] Coffee Geography/Soil Types
+- [ ] Coffee Geography/Sourcing African Coffee
+- [ ] Coffee Geography/South American Coffee
+- [ ] Coffee Geography/Sul de Minas Terroir
+- [ ] Coffee Geography/Sumatra Terroir
+- [ ] Coffee Geography/Tanzania Coffee
+- [ ] Coffee Geography/Tanzania_Coffee
+- [ ] Coffee Geography/Tarrazu Region Terroir
+- [ ] Coffee Geography/Understanding Coffee Origins
+- [ ] Coffee Geography/What Is Coffee Terroir?
+- [ ] Coffee Geography/Wild Forest Coffee Ethiopia
+- [ ] Coffee Geography/Yemen coffee
+- [ ] Coffee Geography/Yirgacheffe Coffee
+- [ ] Coffee Geography/Yirgacheffe Region Terroir
+- [ ] Coffee Geography/Zambia_Coffee
+- [ ] Coffee Geography/Zimbabwe_Coffee
+- [ ] Coffee History/Italian and Greek Espresso Influence on Australia
+- [ ] Coffee History/Migration and Espresso Culture Australia
+- [ ] Coffee History/New Wave of Coffee Culture
+- [ ] Coffee History/SCA History
+- [ ] Coffee History/The Evolution of Coffee Grinders
+- [ ] Coffee History/The Three Waves of Coffee
+- [ ] Coffee History/The_Evolution_of_Coffee_Grinders
+- [ ] Coffee History/Third Wave Coffee
+- [ ] Coffee History/Who really invented the first espresso machine
+- [ ] Coffee Meta/Table of Contents
+- [ ] Coffee Plant-science/Peaberry Biology and Formation
+- [ ] Coffee Plant-science/Shade Growing
+- [ ] Coffee Processing/Experimental Processing
+- [ ] Coffee Processing/HoneyPulped Natural Processing
+- [ ] Coffee Processing/Natural Process
+- [ ] Coffee Processing/NaturalDry Processing
+- [ ] Coffee Processing/Processing Identification
+- [ ] Coffee Processing/Processing Impact
+- [ ] Coffee Processing/Processing Methods Explained
+- [ ] Coffee Processing/Processing Methods
+- [ ] Coffee Processing/Semi-Washed Process
+- [ ] Coffee Processing/Washed Process
+- [ ] Coffee Processing/WashedWet Processing
+- [ ] Coffee Processing/Wet-Hulling
+- [ ] Coffee Processing/Wet-Processed Green Coffee
+- [ ] Coffee Profession/Coffee Writer
+- [ ] Coffee Roasting/Light vs dark roasts in the Clever Dripper
+- [ ] Coffee Roasting/Maillard Reaction and Caramelization
+- [ ] Coffee Roasting/Maillard Reaction
+- [ ] Coffee Roasting/Map roast stages to flavour outcomes
+- [ ] Coffee Roasting/Module 1 - Introduction to Coffee Roasting
+- [ ] Coffee Roasting/Production Cupping
+- [ ] Coffee Roasting/Roast Defects
+- [ ] Coffee Roasting/Roast Levels and Flavor Development
+- [ ] Coffee Roasting/Roast Levels
+- [ ] Coffee Roasting/Roast Phases
+- [ ] Coffee Roasting/Roast Profiles
+- [ ] Coffee Roasting/Roasting Basics
+- [ ] Coffee Roasting/Roasting Chemistry
+- [ ] Coffee Roasting/Roasting Coffee beans
+- [ ] Coffee Roasting/Roasting Science
+- [ ] Coffee Roasting/Roasting Theory
+- [ ] Coffee Roasting/Roasting and Brewing Peaberry
+- [ ] Coffee Roasting/Roasting_Defects
+- [ ] Coffee Roasting/Second Crack
+- [ ] Coffee Roasting/Virtual Coffee Lab - Home Coffee Roaster
+- [ ] Coffee Shop/Café Atmosphere and Design 1
+- [ ] Coffee Shop/Cafés Communicating Sourcing Values 1
+- [ ] Coffee Shop/Cafés and Local Economies 1
+- [ ] Coffee Shop/Cafés and Neighbourhood Identity 1
+- [ ] Coffee Shop/Cafés as Third Places 1
+- [ ] Coffee Shop/Cafés in the Digital Age 1
+- [ ] Coffee Shop/Coffee Shops and Community 1
+- [ ] Coffee Sweeteners/Coconut Sugar
+- [ ] Coffee Sweeteners/Maple Syrup
+- [ ] Coffee Sweeteners/Raw Sugar and Demerara
+- [ ] Coffee Sweeteners/Simple Syrup
+- [ ] Coffee-origins/Indonesian Coffee
+- [ ] Coffee/Latte Art Techniques
+- [ ] Coffee/Pressure and Flow Control
+- [ ] Coffee/Tasting and Evaluation
+- [ ] [Countries and Coffee](../countries-and-coffee.md)
+- [ ] Cultivation and Agronomy/Cultivation and Agronomy
+- [ ] [Customer Greeting](../customer-greeting.md)
+- [ ] [Documentaries on the History of Coffee](../documentaries-on-the-history-of-coffee.md)
+- [ ] Education/Course Objectives
+- [ ] Education/Course Prerequisites
+- [ ] Education/Courses on Coffee
+- [ ] Education/How to become a Barrista
+- [ ] Equipment/PID Controllers
+- [ ] Extraction/What Is Extraction
+- [ ] Green Coffee Beans/Fair Trade and Direct Trade
+- [ ] Green Coffee Beans/Peaberry Origins
+- [ ] Grinders/Burr grinders
+- [ ] [Growing Regions](../growing-regions.md)
+- [ ] Guide/Getting Started with This Guide to Coffee 1
+- [ ] Guide/Getting Started with This Guide to Coffee
+- [ ] Guide/Variety Selection Guide
+- [ ] [History of Specialty Coffee](../history-of-specialty-coffee.md)
+- [ ] [Homepage](../homepage.md)
+- [ ] Homepage/About /Maps of Content
+- [ ] Index/Coffee Terms A
+- [ ] Index/Regional Varieties Index
+- [ ] Literature/Books About Coffee
+- [ ] Literature/Coffee Writings
+- [ ] Maps of Content/Australia MOC
+- [ ] Maps of Content/Barista Skills Development MOC
+- [ ] Maps of Content/Brewing Fundamentals MOC
+- [ ] Maps of Content/Brewing Methods MOC 1
+- [ ] Maps of Content/Brewing Methods MOC
+- [ ] Maps of Content/Caffè Mocha
+- [ ] Maps of Content/China MOC
+- [ ] Maps of Content/Coffee Based Drinks MOC
+- [ ] Maps of Content/Coffee Botany and Varietals MOC
+- [ ] Maps of Content/Coffee Breeding and Genetics MOC
+- [ ] Maps of Content/Coffee Chemistry MOC
+- [ ] Maps of Content/Coffee Cocktails MOC
+- [ ] Maps of Content/Coffee Defects MOC
+- [ ] Maps of Content/Coffee Drink Recipes MOC
+- [ ] Maps of Content/Coffee Drinks MOC
+- [ ] Maps of Content/Coffee Education MOC
+- [ ] Maps of Content/Coffee Equipment MOC
+- [ ] Maps of Content/Coffee Extraction Fundamentals MOC
+- [ ] Maps of Content/Coffee Glossary MOC
+- [ ] Maps of Content/Coffee Grinders MOC
+- [ ] Maps of Content/Coffee History MOC
+- [ ] Maps of Content/Coffee Origins MOC
+- [ ] Maps of Content/Coffee Plant Science MOC
+- [ ] Maps of Content/Coffee Processing MOC
+- [ ] Maps of Content/Coffee Programme MoC
+- [ ] Maps of Content/Coffee Shop Compliance MoC
+- [ ] Maps of Content/Coffee Shop Menu MoC
+- [ ] Maps of Content/Coffee Shop MoC
+- [ ] Maps of Content/Coffee Shop Quality MoC
+- [ ] Maps of Content/Coffee Tasting MOC
+- [ ] Maps of Content/Coffee Terminology MoC 1
+- [ ] Maps of Content/Coffee Terminology MoC
+- [ ] Maps of Content/Coffee Variety Families MOC
+- [ ] Maps of Content/Coffee_Chemistry_MOC
+- [ ] Maps of Content/Deep Dive MOCs
+- [ ] Maps of Content/Espresso MOC
+- [ ] Maps of Content/Ethiopia Coffee Regions MOC
+- [ ] Maps of Content/Ethiopia MOC
+- [ ] Maps of Content/Extraction Optimization & Troubleshooting MOC
+- [ ] Maps of Content/Extraction by Brewing Method MOC
+- [ ] Maps of Content/Flavor_Development_MOC
+- [ ] Maps of Content/Flavour Development MOC 1
+- [ ] Maps of Content/Flavour Development MOC
+- [ ] Maps of Content/Flavour_Development_MOC
+- [ ] Maps of Content/Foundational Knowledge MOC 1
+- [ ] Maps of Content/Foundational Knowledge MOC
+- [ ] Maps of Content/Grind Size MOC
+- [ ] Maps of Content/Grinder Maintenance & Care MOC
+- [ ] Maps of Content/Grinder Technology & Performance MOC
+- [ ] Maps of Content/Hario V60 MOC
+- [ ] Maps of Content/India MOC
+- [ ] Maps of Content/Japanese Coffee MOC
+- [ ] Maps of Content/MOC review 1
+- [ ] Maps of Content/Mexico MOC
+- [ ] Maps of Content/MoC - Coffee Equipment
+- [ ] Maps of Content/MoC - Coffee Fundamentals 1
+- [ ] Maps of Content/MoC - Coffee Fundamentals
+- [ ] Maps of Content/MoC - Coffee Making Process
+- [ ] Maps of Content/MoC - Regional Coffee Drinks
+- [ ] Maps of Content/Most Referenced MOCs
+- [ ] Maps of Content/Navigation MOC
+- [ ] Maps of Content/Origin Specific Standards MoC
+- [ ] Maps of Content/Origin-Specific_Standards_MOC
+- [ ] Maps of Content/Origins & Terroir MOC
+- [ ] Maps of Content/Pakistan MOC
+- [ ] Maps of Content/Processing_Methods_MOC
+- [ ] Maps of Content/Professional Development MOC
+- [ ] Maps of Content/Quality Control MOC old
+- [ ] Maps of Content/Quality Control MOC
+- [ ] Maps of Content/Regional Coffee Drinks MOC
+- [ ] Maps of Content/Regional Coffee MOC
+- [ ] Maps of Content/Roasting MOC
+- [ ] Maps of Content/Roasting Methods MOC
+- [ ] Maps of Content/Roasting_Methods_MOC
+- [ ] Maps of Content/Rwanda Coffee MOC
+- [ ] Maps of Content/Sensory Science MOC
+- [ ] Maps of Content/Sensory_Science_MOC
+- [ ] Maps of Content/South_American_Coffee_MOC
+- [ ] Maps of Content/Specialty Coffee Association MOC
+- [ ] Maps of Content/Specialty Coffee History MOC
+- [ ] Maps of Content/Specialty Coffee Institutions MOC
+- [ ] Maps of Content/Specialty Coffee MOC
+- [ ] Maps of Content/Specialty Coffee Pioneers MOC
+- [ ] Maps of Content/Specialty Coffee Principles MOC
+- [ ] Maps of Content/Specialty Coffee Regions MOC
+- [ ] Maps of Content/Terroir-by-Country MOC
+- [ ] Maps of Content/Thailand MOC
+- [ ] Maps of Content/Training and Education MOC
+- [ ] Maps of Content/USA MOC
+- [ ] Maps of Content/Variety Characteristics and Evaluation MOC
+- [ ] Maps of Content/Water MOC
+- [ ] Maps of Content/Water in Coffee MOC
+- [ ] Maps of Content/Workplace Skills MOC
+- [ ] Maps of Content/World Barista Championship MOC
+- [ ] Maps of Content/World Brewers Cup MOC
+- [ ] Navigation/Getting Started Guide
+- [ ] Navigation/How to Use Coffeepedia
+- [ ] Navigation/NAVIGATION
+- [ ] Navigation/Navigate by Goal
+- [ ] Navigation/Start Here
+- [ ] News/Coffee News
+- [ ] News/Latest Coffee News
+- [ ] [Order Taking](../order-taking.md)
+- [ ] Roasting/First Crack and Second Crack
+- [ ] Running a Cafe/Cafe Business Planning MoC
+- [ ] Running a Cafe/Cafe Customer Experience MoC
+- [ ] Running a Cafe/Cafe Financial Management MoC
+- [ ] Running a Cafe/Cafe Growth and Scaling MoC
+- [ ] Running a Cafe/Cafe Operations MoC
+- [ ] Running a Cafe/Cafe Staff MoC
+- [ ] Specialty Coffee/Specialty Coffee 1
+- [ ] Specialty Coffee/Specialty Coffee Association (SCA)
+- [ ] Specialty Coffee/Specialty Coffee Association
+- [ ] Specialty Coffee/Specialty Coffee Competition Culture
+- [ ] Specialty Coffee/Specialty Coffee Definition
+- [ ] Specialty Coffee/Specialty Coffee Grading
+- [ ] Specialty Coffee/Specialty Coffee History
+- [ ] Specialty Coffee/Specialty Coffee Impact and Future
+- [ ] Specialty Coffee/Specialty Coffee Movement Map Of Comtent
+- [ ] Specialty Coffee/Specialty Coffee Movement
+- [ ] Specialty Coffee/Specialty Coffee Principles
+- [ ] Specialty Coffee/Specialty Coffee Regional Scenes
+- [ ] Specialty Coffee/Specialty Grade
+- [ ] Specialty Coffee/Specialty vs Chain Café Pricing 1
+- [ ] Specialty Coffee/Specialty vs Chain Café Pricing
+- [ ] Specialty Coffee/Specialty_Coffee_Definition
+- [ ] Specialty Coffee/Specialty_Coffee_Movement
+- [ ] Specialty Coffee/specialty-coffee-association-note-hyperlinks
+- [ ] [Tag Structure](../tag-structure.md)
+- [ ] Tasting Coffee/Body Scoring
+- [ ] Tasting Coffee/Brightness 1
+- [ ] Tasting/Identifying Basic Qualities
+- [ ] Terroir/Brazilian Terroir Profile
+- [ ] Terroir/Terroir Factors - Altitude
+- [ ] Terroir/Terroir Factors - Climate and Latitude
+- [ ] Terroir/Terroir Factors - Soil
+- [ ] Terroir/Terroir by Country (old)
+- [ ] Terroir/Terroir by Country
+- [ ] Terroir/Terroir
+- [ ] [Till Operation](../till-operation.md)
+- [ ] ../Untitled
+- [ ] Water/Water Temperature
+- [ ] coffee brewing espresso/Latte Art
+- [ ] coffee brewing espresso/Long Black
+- [ ] coffee brewing espresso/Making an Espresso
+- [ ] coffee brewing espresso/Microfoam 1
+- [ ] coffee brewing espresso/Milk Drinks
+- [ ] coffee brewing espresso/Milk Quality Assessment
+- [ ] coffee brewing espresso/Milk Steaming and Texturing
+- [ ] coffee brewing espresso/Mocha
+- [ ] coffee brewing espresso/Portafilter Handling
+- [ ] coffee brewing espresso/Pouring Fundamentals
+- [ ] coffee brewing espresso/Pre-Infusion
+- [ ] coffee brewing espresso/Precision Dialling
+- [ ] coffee brewing espresso/Pressure Methods
+- [ ] coffee brewing espresso/Pressure and Bars
+- [ ] coffee brewing espresso/Pressure
+- [ ] coffee brewing espresso/Tamping
+- [ ] coffee brewing espresso/Why use single dosing with zero retention
+- [ ] coffee brewing espresso/Zero Retention
+- [ ] coffee green-beans/Kenya_Coffee_Grading_Standards
+- [ ] coffee green-beans/Origin-Specific Standards
+- [ ] coffee green-beans/Origin-Specific_Standards
+- [ ] coffee green-beans/Origin-Specific_Standards_MoP
+- [ ] coffee green-beans/Peaberry Coffee
+- [ ] coffee green-beans/Peaberry Sorting and Grading
+- [ ] coffee green-beans/Potato Defect
+- [ ] coffee green-beans/Regional Grading Systems
+- [ ] coffee green-beans/Rio Defect
+- [ ] coffee green-beans/RioRioy
+- [ ] coffee green-beans/Screen Size Grading
+- [ ] coffee green-beans/Single Origin vs Blends
+- [ ] coffee green-beans/Wet Storage of Coffee Beans
+- [ ] coffee science/Lipids and Oils
+- [ ] coffee science/Milk Science
+- [ ] coffee science/Organic Acids
+- [ ] coffee science/Phenolic
+- [ ] coffee science/Sugars and Carbohydrates
+- [ ] coffee science/Taste Buds
+- [ ] coffee science/Taste Receptors
+- [ ] coffee tasting/Origin Recognition
+- [ ] coffee tasting/Palate Calibration
+- [ ] coffee tasting/Peaberry Flavour Profile
+- [ ] coffee tasting/Q Grader Certification
+- [ ] coffee tasting/Q Grader Skills
+- [ ] coffee tasting/Q Grading
+- [ ] coffee tasting/Quality Scoring
+- [ ] coffee tasting/SCA Cupping Form
+- [ ] coffee tasting/SCA Cupping Protocol
+- [ ] coffee tasting/SCA_Flavour_Wheel
+- [ ] coffee tasting/Salty_Taste
+- [ ] coffee tasting/Sensory Foundations
+- [ ] coffee tasting/Sour_Taste
+- [ ] coffee tasting/Sweet_Taste
+- [ ] coffee tasting/Sweetness
+- [ ] coffee tasting/Tasting Coffee Properly
+- [ ] coffee tasting/Tasting Coffee
+- [ ] coffee tasting/Temperature Perception
+- [ ] coffee tasting/Texture Recognition
+- [ ] coffee tasting/Triangle Tests
+- [ ] coffee tasting/Umami_Taste
+- [ ] coffee tasting/Uniformity_Scoring
+- [ ] coffee tasting/WCR Sensory Lexicon
+- [ ] coffee tasting/What do the four zones mean for coffee taste
+- [ ] coffee tasting/Wine Aroma Wheel
+- [ ] coffee tasting/sensory
+- [ ] queensland/Far North Queensland

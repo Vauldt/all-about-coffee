@@ -1,5 +1,5 @@
-site_name: Matthew's Knowledge Site
-site_description: A structured knowledge base built from Obsidian/Markdown notes.
+site_name: Coffeepedia
+site_description: Matthew Clairmont's coffee knowledge base, published from an Obsidian/Markdown vault.
 site_author: Matthew Clairmont
 # site_url: https://example.com   # Set this when deploying.
 
@@ -110,9 +110,13 @@ extra:
       name: GitHub
   tags:
     Coffee: coffee
-    Traffic Operations: traffic-ops
     Reference: reference
     How-to: how-to
+
+# The imported vault contains many hundreds of pages. Keep them searchable and
+# addressable, but do not put every note into the global sidebar on every page.
+not_in_nav: |
+  coffee/**/*.md
 
 nav:
   - Home: index.md
@@ -120,5 +124,11 @@ nav:
   - Knowledge Architecture: knowledge-architecture.md
   - Coffee:
       - Overview: coffee/index.md
-  - Traffic Operations:
-      - Overview: traffic-operations/index.md
+      - Maps of Content: coffee/maps-of-content/index.md
+      - Navigation: coffee/navigation/index.md
+      - Brewing: coffee/coffee-brewing/index.md
+      - Origins & Geography: coffee/coffee-geography/index.md
+      - Processing: coffee/coffee-processing/index.md
+      - Tasting: coffee/coffee-tasting/index.md
+      - Roasting: coffee/coffee-roasting/index.md
+      - Equipment: coffee/coffee-equipment/index.md

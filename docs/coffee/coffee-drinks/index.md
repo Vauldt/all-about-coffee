@@ -1,0 +1,25 @@
+# Coffee Drinks
+
+## Pages
+
+- [Bulletproof coffee](bulletproof-coffee.md)
+- [Caffe latte](caffe-latte.md)
+- [Caffe macchiato](caffe-macchiato.md)
+- [Chai latte](chai-latte.md)
+- [Coffee cocktails](coffee-cocktails.md)
+- [Coffee drinks and recipes](coffee-drinks-and-recipes.md)
+- [Drinks and styles](drinks-and-styles.md)
+- [Recipe amaretto affogato cocktail](recipe-amaretto-affogato-cocktail.md)
+- [Recipe black russian cocktail](recipe-black-russian-cocktail.md)
+- [Recipe carajillo cocktail](recipe-carajillo-cocktail.md)
+- [Recipe card for bavarian coffee](recipe-card-for-bavarian-coffee.md)
+- [Recipe card for flat white](recipe-card-for-flat-white.md)
+- [Recipe cards](recipe-cards.md)
+- [Recipe coffee cocktails](recipe-coffee-cocktails.md)
+- [Recipe coffee old fashioned cocktail](recipe-coffee-old-fashioned-cocktail.md)
+- [Recipe cold brew negroni cocktail](recipe-cold-brew-negroni-cocktail.md)
+- [Recipe espresso martini cocktail](recipe-espresso-martini-cocktail.md)
+- [Recipe espresso tonic cocktail](recipe-espresso-tonic-cocktail.md)
+- [Recipe irish coffee cocktail](recipe-irish-coffee-cocktail.md)
+- [Recipe white russian cocktail](recipe-white-russian-cocktail.md)
+- [Sweetened coffee](sweetened-coffee.md)

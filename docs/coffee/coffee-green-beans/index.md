@@ -1,0 +1,26 @@
+# Coffee Green Beans
+
+## Pages
+
+- [Coffee bean structure](coffee-bean-structure.md)
+- [Coffee beans overview](coffee-beans-overview.md)
+- [Coffee beans](coffee-beans.md)
+- [Coffee qualities](coffee-qualities.md)
+- [Coffee quality and grading](coffee-quality-and-grading.md)
+- [Common defects](common-defects.md)
+- [Decaffinated coffee](decaffinated-coffee.md)
+- [Defect grading](defect-grading.md)
+- [Defect identification](defect-identification.md)
+- [Kenya coffee grading standards](kenya-coffee-grading-standards.md)
+- [Origin specific standards 2](origin-specific-standards-2.md)
+- [Origin specific standards mop](origin-specific-standards-mop.md)
+- [Origin specific standards](origin-specific-standards.md)
+- [Peaberry coffee](peaberry-coffee.md)
+- [Peaberry sorting and grading](peaberry-sorting-and-grading.md)
+- [Potato defect](potato-defect.md)
+- [Regional grading systems](regional-grading-systems.md)
+- [Rio defect](rio-defect.md)
+- [Riorioy](riorioy.md)
+- [Screen size grading](screen-size-grading.md)
+- [Single origin vs blends](single-origin-vs-blends.md)
+- [Wet storage of coffee beans](wet-storage-of-coffee-beans.md)
