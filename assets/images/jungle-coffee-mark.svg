@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Jungle coffee mark</title>
+  <desc id="desc">A coffee bean framed by two rainforest leaves.</desc>
+  <rect width="96" height="96" rx="22" fill="#0f3d2e"/>
+  <path d="M28 58c-3-19 8-34 29-39 5 20-5 36-26 43-2 1-3 0-3-4Z" fill="#78a557"/>
+  <path d="M68 63c3-17-7-30-26-34-4 18 5 32 24 38 2 1 3-1 2-4Z" fill="#b8c67a"/>
+  <ellipse cx="48" cy="52" rx="15" ry="22" fill="#8a6846"/>
+  <path d="M48 31c-8 9-9 26 0 42 8-10 9-27 0-42Z" fill="#5b4633"/>
+  <path d="M31 57c9-8 17-18 23-33" fill="none" stroke="#0f3d2e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M65 61c-8-7-15-16-20-29" fill="none" stroke="#0f3d2e" stroke-width="4" stroke-linecap="round"/>
+</svg>
