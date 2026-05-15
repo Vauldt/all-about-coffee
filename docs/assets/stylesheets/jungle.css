@@ -1,0 +1,107 @@
+/* Jungle palette for Coffeepedia
+ *
+ * Canopy green   #0f3d2e   Deep canopy   #08251c
+ * Leaf green     #1f6b45   Fern          #78a557   Moss           #b8c67a
+ * Bark           #5b4633   Earth         #8a6846
+ * Parchment      #f4efd9   Mist          #dfe8d2
+ * Coffee cherry  #9f3f2f   Amber         #d49b49
+ */
+
+:root {
+  --jungle-canopy: #0f3d2e;
+  --jungle-canopy-deep: #08251c;
+  --jungle-leaf: #1f6b45;
+  --jungle-fern: #78a557;
+  --jungle-moss: #b8c67a;
+  --jungle-bark: #5b4633;
+  --jungle-earth: #8a6846;
+  --jungle-parchment: #f4efd9;
+  --jungle-mist: #dfe8d2;
+  --jungle-cherry: #9f3f2f;
+  --jungle-amber: #d49b49;
+}
+
+/* Light scheme — primary = canopy green, accent = coffee cherry */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:           var(--jungle-canopy);
+  --md-primary-fg-color--light:    var(--jungle-leaf);
+  --md-primary-fg-color--dark:     var(--jungle-canopy-deep);
+  --md-primary-bg-color:           #f8f5e8;
+  --md-primary-bg-color--light:    rgba(248, 245, 232, 0.7);
+
+  --md-accent-fg-color:            var(--jungle-cherry);
+  --md-accent-fg-color--transparent: rgba(159, 63, 47, 0.1);
+  --md-accent-bg-color:            #fbf8ec;
+  --md-accent-bg-color--light:     rgba(251, 248, 236, 0.7);
+
+  --md-default-bg-color:           #fbf8ec;
+  --md-default-fg-color:           #223025;
+  --md-default-fg-color--light:    rgba(34, 48, 37, 0.72);
+  --md-default-fg-color--lighter:  rgba(34, 48, 37, 0.45);
+  --md-default-fg-color--lightest: rgba(34, 48, 37, 0.07);
+
+  --md-typeset-a-color:            var(--jungle-leaf);
+  --md-code-bg-color:              var(--jungle-parchment);
+  --md-code-fg-color:              #2c3a2f;
+
+  --md-footer-bg-color:            var(--jungle-canopy-deep);
+  --md-footer-bg-color--dark:      #050f0b;
+}
+
+/* Dark scheme — keep canopy primary, lift accent to amber for legibility */
+[data-md-color-scheme="slate"] {
+  --md-hue: 150;
+
+  --md-primary-fg-color:           var(--jungle-canopy);
+  --md-primary-fg-color--light:    var(--jungle-leaf);
+  --md-primary-fg-color--dark:     var(--jungle-canopy-deep);
+  --md-primary-bg-color:           #e8ead7;
+  --md-primary-bg-color--light:    rgba(232, 234, 215, 0.7);
+
+  --md-accent-fg-color:            var(--jungle-amber);
+  --md-accent-fg-color--transparent: rgba(212, 155, 73, 0.16);
+  --md-accent-bg-color:            #0d1f18;
+
+  --md-default-bg-color:           #07120e;
+  --md-default-fg-color:           #e8ead7;
+  --md-default-fg-color--light:    rgba(232, 234, 215, 0.78);
+  --md-default-fg-color--lighter:  rgba(232, 234, 215, 0.5);
+  --md-default-fg-color--lightest: rgba(232, 234, 215, 0.08);
+
+  --md-typeset-a-color:            var(--jungle-moss);
+  --md-code-bg-color:              #10291f;
+  --md-code-fg-color:              #dfe8d2;
+
+  --md-footer-bg-color:            #050f0b;
+  --md-footer-bg-color--dark:      #030805;
+}
+
+/* Header gradient evoking forest canopy */
+.md-header,
+.md-tabs {
+  background:
+    radial-gradient(circle at 15% 0%, rgba(120, 165, 87, 0.28), transparent 26rem),
+    linear-gradient(135deg, var(--jungle-canopy-deep), var(--jungle-canopy));
+}
+
+/* Headings in the canopy hue (light mode); inherit in dark mode for contrast */
+[data-md-color-scheme="default"] .md-typeset h1,
+[data-md-color-scheme="default"] .md-typeset h2,
+[data-md-color-scheme="default"] .md-typeset h3 {
+  color: var(--jungle-canopy);
+}
+
+/* Blockquote accent stripe in fern green */
+.md-typeset blockquote {
+  border-left: 0.25rem solid var(--jungle-fern);
+  background: rgba(120, 165, 87, 0.08);
+}
+
+/* Search input on header reads as parchment-on-canopy */
+.md-search__input {
+  background-color: rgba(244, 239, 217, 0.18);
+}
+
+.md-search__input::placeholder {
+  color: rgba(244, 239, 217, 0.7);
+}
